@@ -1,0 +1,26 @@
+station_id,station_name,category,address,city,latitude,longitude,installation_date
+1,PulseCharge - Jenny Motorway,Suburban Mall,0971 Jason Locks Suite 007,Phoenix,26.094984,70.021635,2025-06-10
+2,PulseCharge - Teresa Ports,Residential Transit,144 Harris Grove,Chicago,-83.446719,-33.991278,2024-06-27
+3,PulseCharge - Hannah Valleys,Residential Transit,096 Conner Stravenue,Vancouver,-77.304471,-26.177299,2025-03-27
+4,PulseCharge - Carly Motorway,Suburban Mall,255 Malik Route Suite 629,Seattle,17.851782,19.774988,2025-09-04
+5,PulseCharge - Saunders Drive,Residential Transit,865 Miller Glen Apt. 557,Vancouver,31.002313,109.487126,2026-07-31
+6,PulseCharge - Pamela Junctions,Suburban Mall,582 Tiffany Turnpike,Houston,-34.752552,32.788883,2024-01-13
+7,PulseCharge - Gilmore Parkway,Urban Hub,190 Michael Shores,Toronto,-45.788171,-58.247165,2026-08-06
+8,PulseCharge - Burns Islands,Urban Hub,686 Barbara Summit Suite 137,Toronto,-48.204283,-78.890493,2023-09-09
+9,PulseCharge - Tyler Cliffs,Highway Corridor,64381 Andrew Burgs Suite 132,Seattle,-70.850847,-144.01792,2024-10-06
+10,PulseCharge - Tapia Manors,Residential Transit,609 Cooper Landing Apt. 469,Toronto,68.293916,76.860243,2026-05-22
+11,PulseCharge - Erin Bypass,Residential Transit,5047 Mullins Trail Apt. 699,Chicago,4.235588,83.232348,2023-10-21
+12,PulseCharge - Johnson Oval,Residential Transit,4811 Jennifer Stravenue,New York,79.462986,-129.531115,2025-08-15
+13,PulseCharge - Curry Garden,Urban Hub,54873 Davis Spur Apt. 908,Seattle,29.300762,-142.902431,2025-10-27
+14,PulseCharge - Steven Square,Highway Corridor,049 Helen Overpass Apt. 742,Vancouver,-79.311841,-24.15354,2026-03-30
+15,PulseCharge - Simmons Spur,Highway Corridor,37730 Parsons Valley,Vancouver,85.522303,-85.171631,2025-04-16
+16,PulseCharge - Kevin Fork,Highway Corridor,973 Stokes Crescent Apt. 222,Chicago,72.458741,122.135251,2023-10-15
+17,PulseCharge - Crawford Underpass,Residential Transit,85816 Johnson Mews Suite 111,Chicago,-19.461718,176.859337,2025-03-17
+18,PulseCharge - Morales Gardens,Highway Corridor,02192 Sean Plains,Vancouver,10.211483,119.234923,2024-10-21
+19,PulseCharge - Jones Turnpike,Suburban Mall,618 Jesse Drive,Seattle,-9.377262,-108.480838,2026-09-02
+20,PulseCharge - Smith Circle,Residential Transit,84980 Beard Dam,Los Angeles,-4.227036,-49.177367,2025-09-24
+21,PulseCharge - Jacob Mountains,Suburban Mall,3126 Dustin Crossroad Apt. 178,Toronto,-70.514246,123.953444,2024-05-21
+22,PulseCharge - Courtney Loop,Suburban Mall,46060 Norman Burgs Apt. 567,Vancouver,72.789061,-59.353804,2024-03-24
+23,PulseCharge - Mendez Turnpike,Highway Corridor,239 Crawford Club Suite 906,Los Angeles,-72.193609,121.553237,2024-01-18
+24,PulseCharge - Kendra Canyon,Urban Hub,6475 Huff Rapids Suite 478,Phoenix,40.939462,27.282557,2026-08-13
+25,PulseCharge - Taylor Course,Urban Hub,8891 Soto Groves Suite 983,Los Angeles,-5.965844,-5.965591,2024-09-14

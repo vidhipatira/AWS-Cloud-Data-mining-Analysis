@@ -1,0 +1,1201 @@
+payment_id,session_id,payment_method,payment_status,payment_timestamp,amount
+1,1,RFID Card,Completed,2026-06-24 13:43:52,16.59
+2,2,RFID Card,Completed,2026-09-05 02:29:52,48.45
+3,3,RFID Card,Completed,2026-07-08 19:06:52,6.9
+4,4,RFID Card,Completed,2026-07-17 08:24:52,17.15
+5,5,Mobile App Wallet,Failed,2026-09-08 23:45:52,19.94
+6,6,Apple Pay,Completed,2026-08-31 14:41:52,4.7
+7,7,Mobile App Wallet,Completed,2026-07-21 14:06:52,13.04
+8,8,Apple Pay,Failed,2026-06-18 10:35:52,7.78
+9,9,Apple Pay,Completed,2026-07-09 05:56:52,26.23
+10,10,Mobile App Wallet,Completed,2026-08-01 07:25:52,14.66
+11,11,Mobile App Wallet,Completed,2026-06-26 14:42:52,4.17
+12,12,Apple Pay,Failed,2026-06-17 03:19:52,46.5
+13,13,Mobile App Wallet,Failed,2026-08-03 23:11:52,9.36
+14,14,Credit Card,Failed,2026-06-23 02:42:52,5.08
+15,15,Mobile App Wallet,Completed,2026-07-24 20:25:52,4.46
+16,16,Mobile App Wallet,Completed,2026-09-01 17:02:52,12.57
+17,17,RFID Card,Completed,2026-09-02 17:12:52,8.47
+18,18,Credit Card,Completed,2026-06-20 06:30:52,20.99
+19,19,Credit Card,Completed,2026-07-21 02:58:52,10.85
+20,20,Apple Pay,Completed,2026-08-15 03:18:52,12.35
+21,21,Credit Card,Completed,2026-08-11 04:45:52,27.08
+22,22,RFID Card,Completed,2026-08-07 05:07:52,33.66
+23,23,Credit Card,Completed,2026-07-25 10:12:52,41.05
+24,24,RFID Card,Completed,2026-09-06 01:43:52,33.35
+25,25,RFID Card,Failed,2026-06-30 01:20:52,5.33
+26,26,RFID Card,Completed,2026-06-28 12:19:52,3.06
+27,27,Mobile App Wallet,Completed,2026-07-04 20:46:52,14.21
+28,28,Mobile App Wallet,Failed,2026-08-15 08:28:52,10.06
+29,29,Apple Pay,Completed,2026-07-05 13:49:52,36.43
+30,30,Mobile App Wallet,Completed,2026-09-06 13:29:52,10.04
+31,31,RFID Card,Failed,2026-07-06 02:30:52,15.09
+32,32,RFID Card,Completed,2026-08-03 19:04:52,36.14
+33,33,RFID Card,Completed,2026-07-29 06:46:52,14.94
+34,34,Credit Card,Completed,2026-07-16 05:29:52,3.79
+35,35,Apple Pay,Completed,2026-06-15 03:05:52,25.37
+36,36,Mobile App Wallet,Completed,2026-06-14 23:45:52,43.12
+37,37,Apple Pay,Completed,2026-08-11 11:49:52,12.04
+38,38,Credit Card,Completed,2026-07-13 19:52:52,9.21
+39,39,Credit Card,Completed,2026-06-26 15:23:52,10.43
+40,40,RFID Card,Failed,2026-08-18 15:12:52,28.0
+41,41,RFID Card,Completed,2026-07-26 21:43:52,6.29
+42,42,Credit Card,Failed,2026-08-15 05:01:52,7.07
+43,43,RFID Card,Completed,2026-06-14 00:28:52,8.89
+44,44,Apple Pay,Completed,2026-08-20 01:57:52,4.16
+45,45,Credit Card,Completed,2026-08-08 14:30:52,8.88
+46,46,RFID Card,Completed,2026-08-01 06:55:52,8.62
+47,47,Apple Pay,Failed,2026-09-02 23:09:52,12.59
+48,48,Credit Card,Failed,2026-07-05 06:12:52,23.65
+49,49,RFID Card,Completed,2026-08-27 19:10:52,8.5
+50,50,Apple Pay,Completed,2026-08-28 11:30:52,36.95
+51,51,Credit Card,Failed,2026-08-29 04:21:52,19.37
+52,52,Credit Card,Completed,2026-09-05 17:58:52,13.26
+53,53,Mobile App Wallet,Failed,2026-09-02 01:22:52,18.87
+54,54,RFID Card,Completed,2026-08-06 15:32:52,8.95
+55,55,RFID Card,Completed,2026-06-15 13:39:52,11.74
+56,56,Credit Card,Failed,2026-07-09 09:44:52,14.5
+57,57,RFID Card,Completed,2026-08-06 16:33:52,14.22
+58,58,Mobile App Wallet,Completed,2026-09-09 10:04:52,11.6
+59,59,Credit Card,Completed,2026-06-15 02:22:52,20.58
+60,60,Mobile App Wallet,Completed,2026-08-12 06:31:52,16.78
+61,61,Mobile App Wallet,Failed,2026-08-08 05:16:52,19.7
+62,62,Mobile App Wallet,Completed,2026-06-27 05:47:52,15.29
+63,63,Mobile App Wallet,Completed,2026-06-21 23:15:52,47.95
+64,64,Mobile App Wallet,Completed,2026-06-23 05:45:52,28.61
+65,65,Mobile App Wallet,Failed,2026-06-14 17:07:52,40.31
+66,66,Apple Pay,Completed,2026-06-15 06:57:52,31.01
+67,67,Apple Pay,Failed,2026-07-20 02:40:52,3.93
+68,68,Apple Pay,Completed,2026-08-27 18:02:52,38.78
+69,69,RFID Card,Failed,2026-08-16 06:48:52,7.19
+70,70,Mobile App Wallet,Completed,2026-06-23 15:17:52,13.47
+71,71,Apple Pay,Completed,2026-07-21 19:49:52,8.53
+72,72,RFID Card,Completed,2026-06-23 02:50:52,42.1
+73,73,Credit Card,Failed,2026-08-14 10:17:52,7.91
+74,74,RFID Card,Completed,2026-07-28 00:55:52,21.72
+75,75,Mobile App Wallet,Completed,2026-08-15 05:29:52,7.82
+76,76,Credit Card,Completed,2026-07-25 06:20:52,4.49
+77,77,RFID Card,Completed,2026-07-24 05:50:52,12.66
+78,78,RFID Card,Failed,2026-08-29 13:30:52,9.82
+79,79,Apple Pay,Completed,2026-07-24 11:14:52,12.83
+80,80,Apple Pay,Completed,2026-08-25 06:48:52,28.3
+81,81,RFID Card,Failed,2026-06-16 07:33:52,4.38
+82,82,Credit Card,Completed,2026-09-07 20:55:52,12.26
+83,83,Mobile App Wallet,Failed,2026-08-22 01:05:52,30.18
+84,84,Apple Pay,Completed,2026-08-20 02:48:52,41.65
+85,85,Apple Pay,Completed,2026-08-21 22:51:52,35.06
+86,86,Apple Pay,Completed,2026-08-22 12:51:52,3.45
+87,87,RFID Card,Failed,2026-07-18 13:59:52,6.48
+88,88,Credit Card,Completed,2026-08-18 23:43:52,32.36
+89,89,Apple Pay,Completed,2026-09-05 07:18:52,7.04
+90,90,Apple Pay,Failed,2026-06-24 10:45:52,7.49
+91,91,Mobile App Wallet,Completed,2026-07-06 22:54:52,13.86
+92,92,RFID Card,Completed,2026-07-03 15:55:52,35.67
+93,93,Mobile App Wallet,Failed,2026-08-23 08:52:52,5.64
+94,94,Credit Card,Completed,2026-06-26 00:28:52,30.64
+95,95,Apple Pay,Completed,2026-09-05 21:08:52,13.36
+96,96,Credit Card,Completed,2026-09-04 16:07:52,24.49
+97,97,RFID Card,Completed,2026-08-07 21:59:52,12.81
+98,98,RFID Card,Completed,2026-06-19 11:27:52,5.94
+99,99,Mobile App Wallet,Failed,2026-07-29 08:31:52,14.72
+100,100,Mobile App Wallet,Completed,2026-07-29 04:25:52,40.16
+101,101,Credit Card,Completed,2026-08-18 11:03:52,18.33
+102,102,Apple Pay,Completed,2026-06-30 19:54:52,23.21
+103,103,Apple Pay,Completed,2026-06-19 04:40:52,10.06
+104,104,Credit Card,Failed,2026-07-31 21:13:52,15.51
+105,105,Credit Card,Completed,2026-06-20 05:41:52,15.11
+106,106,Apple Pay,Failed,2026-06-29 11:52:52,48.25
+107,107,Credit Card,Completed,2026-06-22 12:21:52,13.98
+108,108,RFID Card,Failed,2026-08-17 18:04:52,16.97
+109,109,Apple Pay,Completed,2026-08-20 03:32:52,36.94
+110,110,Credit Card,Completed,2026-07-06 12:37:52,2.24
+111,111,Mobile App Wallet,Completed,2026-06-24 09:17:52,13.06
+112,112,Mobile App Wallet,Completed,2026-07-11 05:48:52,14.28
+113,113,Apple Pay,Completed,2026-09-05 23:53:52,38.85
+114,114,Apple Pay,Completed,2026-08-22 08:01:52,10.25
+115,115,Apple Pay,Completed,2026-09-05 03:25:52,6.1
+116,116,Mobile App Wallet,Failed,2026-07-05 06:52:52,43.54
+117,117,RFID Card,Completed,2026-08-03 04:11:52,12.13
+118,118,Credit Card,Completed,2026-06-22 04:49:52,10.63
+119,119,Apple Pay,Completed,2026-08-28 07:41:52,14.07
+120,120,Apple Pay,Completed,2026-06-12 20:08:52,19.08
+121,121,Apple Pay,Failed,2026-07-08 02:20:52,31.28
+122,122,Apple Pay,Completed,2026-07-26 23:09:52,8.72
+123,123,Mobile App Wallet,Completed,2026-07-21 20:04:52,22.2
+124,124,RFID Card,Completed,2026-08-25 08:53:52,17.93
+125,125,Apple Pay,Failed,2026-07-13 05:22:52,5.27
+126,126,Credit Card,Completed,2026-07-26 19:48:52,11.26
+127,127,Credit Card,Completed,2026-06-12 04:10:52,15.63
+128,128,Apple Pay,Completed,2026-07-28 16:43:52,10.8
+129,129,RFID Card,Completed,2026-08-21 01:25:52,30.34
+130,130,Mobile App Wallet,Completed,2026-09-06 02:57:52,4.97
+131,131,Credit Card,Completed,2026-08-17 22:43:52,5.41
+132,132,Credit Card,Completed,2026-08-22 21:02:52,8.15
+133,133,Credit Card,Failed,2026-07-30 06:05:52,30.22
+134,134,Mobile App Wallet,Completed,2026-07-24 07:39:52,17.96
+135,135,Credit Card,Completed,2026-08-10 20:42:52,36.73
+136,136,Mobile App Wallet,Completed,2026-07-08 08:11:52,46.82
+137,137,Credit Card,Completed,2026-09-06 07:20:52,34.5
+138,138,RFID Card,Completed,2026-08-05 20:33:52,6.4
+139,139,Apple Pay,Completed,2026-08-08 05:06:52,9.27
+140,140,Credit Card,Completed,2026-09-04 03:04:52,17.93
+141,141,RFID Card,Completed,2026-07-30 13:53:52,3.88
+142,142,Mobile App Wallet,Completed,2026-06-11 23:21:52,15.76
+143,143,Credit Card,Completed,2026-08-08 08:07:52,9.93
+144,144,RFID Card,Failed,2026-08-27 09:34:52,17.45
+145,145,Mobile App Wallet,Failed,2026-06-22 14:41:52,39.89
+146,146,Apple Pay,Completed,2026-07-15 23:44:52,12.56
+147,147,Mobile App Wallet,Failed,2026-08-11 15:48:52,14.55
+148,148,RFID Card,Failed,2026-07-19 14:11:52,13.16
+149,149,Apple Pay,Completed,2026-09-03 08:45:52,18.84
+150,150,RFID Card,Failed,2026-07-22 00:50:52,24.98
+151,151,Credit Card,Failed,2026-07-27 18:44:52,14.5
+152,152,Apple Pay,Completed,2026-08-06 22:31:52,12.86
+153,153,Credit Card,Failed,2026-07-11 21:42:52,11.46
+154,154,Credit Card,Completed,2026-08-25 03:04:52,14.27
+155,155,RFID Card,Completed,2026-08-27 09:40:52,11.24
+156,156,Apple Pay,Completed,2026-06-17 09:47:52,24.98
+157,157,Apple Pay,Completed,2026-07-14 22:05:52,27.39
+158,158,Apple Pay,Completed,2026-09-06 09:13:52,5.69
+159,159,Apple Pay,Completed,2026-06-21 16:50:52,22.87
+160,160,RFID Card,Completed,2026-07-26 05:19:52,11.55
+161,161,Mobile App Wallet,Completed,2026-06-25 14:42:52,30.63
+162,162,Mobile App Wallet,Completed,2026-07-24 07:46:52,4.93
+163,163,Apple Pay,Failed,2026-08-06 02:59:52,13.72
+164,164,RFID Card,Completed,2026-07-08 18:54:52,28.08
+165,165,Apple Pay,Failed,2026-06-25 23:08:52,30.27
+166,166,Credit Card,Completed,2026-07-26 02:12:52,33.97
+167,167,Apple Pay,Failed,2026-07-11 22:14:52,20.74
+168,168,Mobile App Wallet,Failed,2026-08-24 01:35:52,24.82
+169,169,Credit Card,Failed,2026-07-05 01:09:52,34.05
+170,170,Apple Pay,Failed,2026-07-31 07:59:52,7.32
+171,171,Mobile App Wallet,Completed,2026-06-22 07:18:52,20.55
+172,172,Credit Card,Completed,2026-08-09 09:14:52,12.27
+173,173,Mobile App Wallet,Failed,2026-07-28 06:23:52,12.06
+174,174,Credit Card,Failed,2026-09-02 19:48:52,27.05
+175,175,Mobile App Wallet,Completed,2026-07-11 21:42:52,11.1
+176,176,RFID Card,Completed,2026-06-19 08:59:52,17.42
+177,177,Credit Card,Completed,2026-07-16 05:42:52,3.63
+178,178,Apple Pay,Failed,2026-09-08 17:13:52,32.91
+179,179,Credit Card,Failed,2026-08-30 22:47:52,9.39
+180,180,RFID Card,Completed,2026-07-17 12:54:52,7.94
+181,181,Credit Card,Failed,2026-06-23 14:32:52,35.9
+182,182,Mobile App Wallet,Failed,2026-07-09 05:00:52,42.67
+183,183,Credit Card,Completed,2026-06-17 16:07:52,12.38
+184,184,RFID Card,Completed,2026-08-08 13:39:52,43.15
+185,185,Credit Card,Failed,2026-09-02 23:58:52,20.69
+186,186,Mobile App Wallet,Failed,2026-09-08 20:11:52,14.81
+187,187,Credit Card,Failed,2026-08-25 21:47:52,8.88
+188,188,Credit Card,Completed,2026-08-11 16:13:52,4.67
+189,189,Credit Card,Completed,2026-06-29 01:44:52,30.4
+190,190,Apple Pay,Failed,2026-07-03 03:37:52,29.91
+191,191,RFID Card,Failed,2026-06-23 17:40:52,9.76
+192,192,Credit Card,Completed,2026-07-12 21:23:52,18.74
+193,193,Mobile App Wallet,Failed,2026-08-28 06:13:52,8.08
+194,194,RFID Card,Completed,2026-07-12 06:33:52,4.37
+195,195,Credit Card,Completed,2026-08-23 04:03:52,11.02
+196,196,RFID Card,Failed,2026-06-12 20:44:52,14.25
+197,197,RFID Card,Completed,2026-08-01 17:18:52,26.65
+198,198,Credit Card,Completed,2026-08-15 19:51:52,9.04
+199,199,Apple Pay,Completed,2026-07-11 13:58:52,18.46
+200,200,Credit Card,Completed,2026-09-04 12:02:52,7.76
+201,201,RFID Card,Completed,2026-08-17 06:17:52,13.31
+202,202,Apple Pay,Failed,2026-07-24 03:52:52,4.25
+203,203,RFID Card,Completed,2026-06-19 06:40:52,13.31
+204,204,Mobile App Wallet,Completed,2026-06-25 22:18:52,3.24
+205,205,Mobile App Wallet,Completed,2026-07-30 16:41:52,9.26
+206,206,Credit Card,Completed,2026-07-21 21:32:52,12.63
+207,207,RFID Card,Completed,2026-06-17 02:24:52,44.22
+208,208,Mobile App Wallet,Failed,2026-06-13 00:47:52,31.76
+209,209,Mobile App Wallet,Completed,2026-08-13 21:26:52,34.68
+210,210,RFID Card,Completed,2026-07-11 08:25:52,17.05
+211,211,Apple Pay,Failed,2026-07-30 13:25:52,11.04
+212,212,RFID Card,Failed,2026-07-16 15:22:52,13.91
+213,213,Credit Card,Completed,2026-08-24 16:27:52,10.4
+214,214,RFID Card,Completed,2026-06-27 20:45:52,13.29
+215,215,Mobile App Wallet,Completed,2026-07-10 15:07:52,16.07
+216,216,Apple Pay,Completed,2026-08-09 23:17:52,26.59
+217,217,Mobile App Wallet,Completed,2026-06-26 15:48:52,16.84
+218,218,RFID Card,Completed,2026-07-13 01:57:52,10.52
+219,219,Credit Card,Completed,2026-08-08 08:28:52,5.17
+220,220,Credit Card,Completed,2026-06-18 20:19:52,42.48
+221,221,Credit Card,Completed,2026-06-19 22:03:52,23.26
+222,222,Apple Pay,Completed,2026-08-09 15:57:52,7.65
+223,223,RFID Card,Failed,2026-08-04 18:37:52,45.97
+224,224,Apple Pay,Failed,2026-08-29 09:02:52,10.54
+225,225,Credit Card,Failed,2026-07-17 02:16:52,14.48
+226,226,Apple Pay,Completed,2026-08-12 08:15:52,22.69
+227,227,Credit Card,Failed,2026-07-22 07:42:52,45.45
+228,228,RFID Card,Completed,2026-08-24 19:56:52,16.22
+229,229,RFID Card,Completed,2026-08-24 01:27:52,15.77
+230,230,Apple Pay,Completed,2026-07-27 07:33:52,27.57
+231,231,Apple Pay,Completed,2026-06-15 15:23:52,13.13
+232,232,Credit Card,Completed,2026-07-06 17:27:52,46.4
+233,233,RFID Card,Failed,2026-06-29 18:29:52,17.4
+234,234,Apple Pay,Completed,2026-07-24 22:15:52,14.97
+235,235,Mobile App Wallet,Failed,2026-08-22 13:54:52,35.63
+236,236,Credit Card,Completed,2026-09-07 22:14:52,11.64
+237,237,Mobile App Wallet,Completed,2026-08-28 22:25:52,3.21
+238,238,RFID Card,Failed,2026-07-12 00:23:52,13.7
+239,239,Credit Card,Completed,2026-07-07 20:22:52,8.98
+240,240,RFID Card,Failed,2026-08-03 20:02:52,8.46
+241,241,Credit Card,Completed,2026-08-24 10:06:52,5.88
+242,242,Mobile App Wallet,Completed,2026-07-14 16:52:52,4.1
+243,243,Mobile App Wallet,Failed,2026-07-25 10:03:52,11.31
+244,244,RFID Card,Completed,2026-06-23 23:22:52,25.39
+245,245,Credit Card,Completed,2026-06-18 03:17:52,37.54
+246,246,Credit Card,Completed,2026-06-23 00:53:52,28.91
+247,247,Apple Pay,Failed,2026-08-31 23:27:52,43.3
+248,248,Apple Pay,Completed,2026-07-14 17:21:52,24.48
+249,249,Credit Card,Completed,2026-06-16 22:48:52,19.37
+250,250,Mobile App Wallet,Completed,2026-09-04 16:54:52,12.71
+251,251,Apple Pay,Completed,2026-08-04 08:05:52,27.92
+252,252,Credit Card,Failed,2026-06-16 07:09:52,36.11
+253,253,Mobile App Wallet,Completed,2026-07-08 18:39:52,7.52
+254,254,RFID Card,Completed,2026-07-22 12:36:52,2.98
+255,255,Credit Card,Failed,2026-06-13 13:30:52,8.85
+256,256,RFID Card,Completed,2026-08-23 07:23:52,18.46
+257,257,Mobile App Wallet,Completed,2026-07-31 11:18:52,13.25
+258,258,Mobile App Wallet,Completed,2026-08-30 09:46:52,10.1
+259,259,RFID Card,Completed,2026-07-16 00:48:52,42.22
+260,260,RFID Card,Completed,2026-09-06 17:14:52,3.61
+261,261,Apple Pay,Completed,2026-08-28 09:14:52,7.76
+262,262,Mobile App Wallet,Completed,2026-07-01 16:49:52,9.86
+263,263,RFID Card,Completed,2026-07-12 14:02:52,40.35
+264,264,RFID Card,Failed,2026-08-01 09:51:52,31.82
+265,265,RFID Card,Completed,2026-07-04 06:19:52,19.89
+266,266,Mobile App Wallet,Completed,2026-07-30 15:57:52,35.38
+267,267,Apple Pay,Completed,2026-07-16 10:58:52,3.53
+268,268,RFID Card,Failed,2026-08-26 13:39:52,33.6
+269,269,Credit Card,Completed,2026-08-08 22:33:52,5.88
+270,270,Credit Card,Failed,2026-07-29 08:34:52,33.62
+271,271,Mobile App Wallet,Completed,2026-07-17 09:51:52,19.27
+272,272,Mobile App Wallet,Completed,2026-07-11 16:45:52,25.17
+273,273,Mobile App Wallet,Completed,2026-07-18 23:06:52,9.87
+274,274,RFID Card,Completed,2026-07-10 12:38:52,40.88
+275,275,Mobile App Wallet,Completed,2026-07-04 23:27:52,13.78
+276,276,RFID Card,Completed,2026-07-10 00:53:52,25.85
+277,277,Apple Pay,Completed,2026-08-09 16:04:52,17.5
+278,278,Mobile App Wallet,Completed,2026-09-07 02:10:52,22.17
+279,279,Credit Card,Failed,2026-08-23 03:50:52,38.35
+280,280,Mobile App Wallet,Completed,2026-07-03 23:15:52,8.69
+281,281,Apple Pay,Failed,2026-07-02 04:33:52,3.55
+282,282,Credit Card,Completed,2026-07-30 14:39:52,16.73
+283,283,Mobile App Wallet,Completed,2026-07-05 13:05:52,29.86
+284,284,Credit Card,Completed,2026-06-25 03:23:52,8.25
+285,285,RFID Card,Failed,2026-08-17 09:20:52,22.91
+286,286,Mobile App Wallet,Completed,2026-07-05 20:02:52,7.99
+287,287,Apple Pay,Completed,2026-08-26 05:02:52,9.25
+288,288,Credit Card,Completed,2026-08-29 14:11:52,14.12
+289,289,Mobile App Wallet,Completed,2026-07-29 17:00:52,24.38
+290,290,Apple Pay,Completed,2026-09-03 18:16:52,17.02
+291,291,Mobile App Wallet,Completed,2026-08-29 16:08:52,12.39
+292,292,Apple Pay,Completed,2026-08-16 20:27:52,8.07
+293,293,Apple Pay,Completed,2026-07-23 19:24:52,14.28
+294,294,Apple Pay,Completed,2026-08-15 15:32:52,39.87
+295,295,RFID Card,Completed,2026-06-17 16:57:52,44.56
+296,296,Mobile App Wallet,Completed,2026-06-25 16:26:52,7.65
+297,297,Mobile App Wallet,Completed,2026-08-29 21:40:52,23.87
+298,298,Apple Pay,Completed,2026-08-08 22:52:52,11.11
+299,299,Apple Pay,Completed,2026-09-09 12:04:52,3.2
+300,300,Credit Card,Failed,2026-07-27 07:55:52,8.32
+301,301,RFID Card,Completed,2026-06-19 22:22:52,7.75
+302,302,Credit Card,Completed,2026-07-13 06:27:52,9.55
+303,303,RFID Card,Completed,2026-08-13 19:30:52,21.73
+304,304,Apple Pay,Failed,2026-08-21 10:28:52,16.68
+305,305,Credit Card,Completed,2026-06-23 05:09:52,3.4
+306,306,Mobile App Wallet,Failed,2026-06-16 05:56:52,42.57
+307,307,RFID Card,Failed,2026-06-17 22:11:52,6.28
+308,308,RFID Card,Completed,2026-09-03 20:48:52,23.15
+309,309,Mobile App Wallet,Completed,2026-08-13 18:57:52,11.15
+310,310,Credit Card,Completed,2026-08-08 20:32:52,3.25
+311,311,Credit Card,Completed,2026-08-09 12:07:52,3.62
+312,312,Mobile App Wallet,Completed,2026-08-25 06:30:52,35.42
+313,313,Apple Pay,Completed,2026-09-04 09:21:52,8.61
+314,314,RFID Card,Completed,2026-07-24 22:23:52,14.2
+315,315,Mobile App Wallet,Completed,2026-08-30 12:07:52,40.46
+316,316,RFID Card,Failed,2026-07-27 08:20:52,9.5
+317,317,Mobile App Wallet,Completed,2026-06-24 13:22:52,4.08
+318,318,Mobile App Wallet,Completed,2026-07-18 10:14:52,43.12
+319,319,Mobile App Wallet,Completed,2026-06-25 10:39:52,13.47
+320,320,Credit Card,Completed,2026-06-18 02:31:52,47.96
+321,321,Mobile App Wallet,Completed,2026-07-07 10:09:52,42.74
+322,322,Apple Pay,Completed,2026-07-04 10:12:52,19.08
+323,323,Credit Card,Completed,2026-08-21 21:10:52,32.59
+324,324,Apple Pay,Completed,2026-06-30 14:52:52,33.12
+325,325,Apple Pay,Failed,2026-07-22 05:22:52,26.04
+326,326,Mobile App Wallet,Failed,2026-07-09 20:27:52,22.16
+327,327,Credit Card,Completed,2026-09-02 13:56:52,23.35
+328,328,Apple Pay,Failed,2026-07-30 22:07:52,9.52
+329,329,Mobile App Wallet,Completed,2026-09-02 20:52:52,4.56
+330,330,Credit Card,Completed,2026-07-08 10:55:52,13.48
+331,331,Credit Card,Failed,2026-08-06 09:31:52,34.19
+332,332,Credit Card,Completed,2026-06-15 14:38:52,15.84
+333,333,Apple Pay,Completed,2026-07-31 04:44:52,10.35
+334,334,Credit Card,Completed,2026-09-02 12:16:52,15.67
+335,335,Apple Pay,Failed,2026-07-19 12:15:52,2.97
+336,336,RFID Card,Completed,2026-08-10 18:51:52,3.64
+337,337,Credit Card,Completed,2026-09-02 01:42:52,38.79
+338,338,Mobile App Wallet,Completed,2026-08-27 03:15:52,47.56
+339,339,Mobile App Wallet,Completed,2026-09-02 05:11:52,16.09
+340,340,RFID Card,Completed,2026-08-22 16:35:52,10.81
+341,341,Mobile App Wallet,Completed,2026-07-07 14:02:52,47.75
+342,342,RFID Card,Completed,2026-08-29 16:07:52,6.09
+343,343,Mobile App Wallet,Completed,2026-07-01 08:30:52,12.7
+344,344,Mobile App Wallet,Completed,2026-07-10 13:52:52,26.49
+345,345,Mobile App Wallet,Completed,2026-08-08 01:28:52,11.23
+346,346,Credit Card,Completed,2026-08-18 21:17:52,4.46
+347,347,Mobile App Wallet,Completed,2026-08-02 06:43:52,9.25
+348,348,Apple Pay,Completed,2026-08-26 13:29:52,5.41
+349,349,Apple Pay,Completed,2026-09-03 22:52:52,31.93
+350,350,RFID Card,Completed,2026-08-23 10:53:52,11.73
+351,351,Mobile App Wallet,Completed,2026-08-12 20:32:52,9.3
+352,352,RFID Card,Completed,2026-08-08 14:45:52,12.76
+353,353,Mobile App Wallet,Failed,2026-07-30 00:17:52,8.78
+354,354,Apple Pay,Completed,2026-08-13 06:51:52,7.54
+355,355,RFID Card,Completed,2026-08-16 09:32:52,12.71
+356,356,Apple Pay,Completed,2026-08-03 23:36:52,8.3
+357,357,Mobile App Wallet,Completed,2026-09-02 02:24:52,8.86
+358,358,Credit Card,Completed,2026-06-18 18:23:52,8.78
+359,359,Mobile App Wallet,Completed,2026-08-08 09:54:52,4.1
+360,360,Mobile App Wallet,Failed,2026-08-15 21:58:52,18.42
+361,361,Mobile App Wallet,Completed,2026-06-24 14:46:52,13.4
+362,362,Credit Card,Failed,2026-08-29 09:39:52,11.5
+363,363,Apple Pay,Completed,2026-08-28 06:13:52,13.91
+364,364,RFID Card,Completed,2026-08-18 03:38:52,12.46
+365,365,RFID Card,Failed,2026-07-14 05:09:52,18.22
+366,366,Credit Card,Failed,2026-06-12 11:09:52,12.74
+367,367,RFID Card,Completed,2026-09-08 00:19:52,3.24
+368,368,Mobile App Wallet,Failed,2026-08-23 01:10:52,15.19
+369,369,RFID Card,Completed,2026-08-11 20:07:52,31.39
+370,370,Mobile App Wallet,Completed,2026-08-01 11:59:52,11.9
+371,371,Mobile App Wallet,Failed,2026-08-02 01:32:52,13.33
+372,372,RFID Card,Completed,2026-06-22 19:24:52,10.38
+373,373,RFID Card,Completed,2026-08-27 15:45:52,14.36
+374,374,Mobile App Wallet,Completed,2026-09-01 03:51:52,16.82
+375,375,RFID Card,Completed,2026-08-17 13:12:52,6.0
+376,376,Apple Pay,Completed,2026-07-01 16:20:52,6.57
+377,377,RFID Card,Completed,2026-06-19 16:08:52,38.45
+378,378,Mobile App Wallet,Failed,2026-07-06 05:03:52,32.22
+379,379,RFID Card,Completed,2026-08-21 16:08:52,8.81
+380,380,Apple Pay,Completed,2026-07-30 07:53:52,12.03
+381,381,Mobile App Wallet,Completed,2026-07-14 17:27:52,35.69
+382,382,Apple Pay,Completed,2026-08-17 06:28:52,7.3
+383,383,Mobile App Wallet,Completed,2026-07-04 05:11:52,17.51
+384,384,Mobile App Wallet,Completed,2026-07-06 21:09:52,38.72
+385,385,Apple Pay,Completed,2026-07-26 17:37:52,5.18
+386,386,Apple Pay,Completed,2026-06-17 06:22:52,21.51
+387,387,Apple Pay,Completed,2026-07-17 03:02:52,3.53
+388,388,Apple Pay,Completed,2026-08-01 10:54:52,10.74
+389,389,RFID Card,Completed,2026-06-13 11:11:52,32.47
+390,390,RFID Card,Completed,2026-07-14 21:38:52,48.04
+391,391,RFID Card,Failed,2026-07-08 03:40:52,6.73
+392,392,Mobile App Wallet,Failed,2026-06-28 08:02:52,42.08
+393,393,Apple Pay,Failed,2026-06-30 13:31:52,36.31
+394,394,RFID Card,Completed,2026-08-17 07:27:52,40.9
+395,395,Credit Card,Failed,2026-09-07 18:19:52,12.79
+396,396,RFID Card,Completed,2026-07-15 02:07:52,31.5
+397,397,RFID Card,Completed,2026-07-26 10:49:52,28.06
+398,398,RFID Card,Failed,2026-08-16 06:04:52,13.81
+399,399,Credit Card,Completed,2026-07-03 10:38:52,7.5
+400,400,RFID Card,Failed,2026-07-10 23:55:52,11.39
+401,401,Mobile App Wallet,Completed,2026-08-26 06:34:52,5.96
+402,402,Credit Card,Completed,2026-09-09 12:19:52,5.95
+403,403,Credit Card,Completed,2026-06-17 14:51:52,11.85
+404,404,RFID Card,Failed,2026-06-22 10:59:52,18.44
+405,405,RFID Card,Failed,2026-06-28 05:57:52,9.68
+406,406,Apple Pay,Failed,2026-07-16 06:23:52,42.21
+407,407,Credit Card,Failed,2026-09-01 07:08:52,24.64
+408,408,RFID Card,Completed,2026-08-02 21:47:52,7.68
+409,409,RFID Card,Completed,2026-06-13 13:25:52,14.58
+410,410,Apple Pay,Failed,2026-07-19 07:36:52,27.04
+411,411,Mobile App Wallet,Completed,2026-07-02 13:53:52,7.06
+412,412,RFID Card,Completed,2026-08-30 22:30:52,41.81
+413,413,Apple Pay,Completed,2026-06-19 18:43:52,3.29
+414,414,Mobile App Wallet,Completed,2026-08-12 18:45:52,5.71
+415,415,Credit Card,Failed,2026-06-28 10:51:52,15.68
+416,416,Credit Card,Completed,2026-08-04 00:18:52,15.27
+417,417,Mobile App Wallet,Completed,2026-06-29 15:18:52,2.76
+418,418,Mobile App Wallet,Completed,2026-06-12 17:13:52,6.99
+419,419,RFID Card,Completed,2026-06-24 05:56:52,28.0
+420,420,Apple Pay,Completed,2026-06-17 14:40:52,29.99
+421,421,RFID Card,Completed,2026-06-18 10:02:52,4.99
+422,422,Apple Pay,Completed,2026-08-24 16:48:52,3.35
+423,423,Credit Card,Completed,2026-06-22 21:38:52,12.27
+424,424,RFID Card,Completed,2026-07-01 11:22:52,11.83
+425,425,RFID Card,Completed,2026-07-05 14:41:52,20.19
+426,426,Mobile App Wallet,Completed,2026-08-07 07:57:52,32.39
+427,427,Credit Card,Completed,2026-08-09 23:49:52,40.22
+428,428,Mobile App Wallet,Completed,2026-07-15 07:40:52,1.81
+429,429,Mobile App Wallet,Failed,2026-08-29 19:57:52,10.69
+430,430,Credit Card,Completed,2026-07-01 09:01:52,25.41
+431,431,Mobile App Wallet,Completed,2026-06-19 14:47:52,6.15
+432,432,RFID Card,Completed,2026-06-23 16:41:52,13.09
+433,433,Apple Pay,Completed,2026-08-28 10:28:52,40.79
+434,434,RFID Card,Completed,2026-06-19 01:42:52,16.76
+435,435,Apple Pay,Completed,2026-07-19 16:46:52,10.79
+436,436,Credit Card,Completed,2026-09-03 22:37:52,14.59
+437,437,Apple Pay,Completed,2026-09-09 10:14:52,13.3
+438,438,RFID Card,Failed,2026-08-19 09:19:52,45.73
+439,439,Apple Pay,Completed,2026-08-06 14:16:52,15.96
+440,440,Mobile App Wallet,Completed,2026-08-08 00:29:52,19.42
+441,441,Mobile App Wallet,Completed,2026-07-09 20:35:52,9.4
+442,442,Mobile App Wallet,Completed,2026-07-26 17:36:52,20.51
+443,443,Apple Pay,Completed,2026-08-24 01:52:52,38.79
+444,444,Credit Card,Failed,2026-09-09 07:37:52,33.05
+445,445,Mobile App Wallet,Completed,2026-06-19 00:34:52,10.07
+446,446,Mobile App Wallet,Completed,2026-08-31 01:42:52,30.13
+447,447,Mobile App Wallet,Failed,2026-07-09 18:04:52,19.22
+448,448,Apple Pay,Completed,2026-06-29 17:03:52,11.05
+449,449,Mobile App Wallet,Failed,2026-08-15 02:43:52,12.09
+450,450,Mobile App Wallet,Completed,2026-08-23 21:33:52,43.19
+451,451,Apple Pay,Completed,2026-08-06 01:31:52,3.01
+452,452,RFID Card,Failed,2026-07-23 00:05:52,35.01
+453,453,Mobile App Wallet,Completed,2026-08-06 15:19:52,16.74
+454,454,Credit Card,Completed,2026-06-17 20:37:52,44.34
+455,455,Mobile App Wallet,Completed,2026-07-21 02:56:52,19.25
+456,456,RFID Card,Completed,2026-08-30 11:34:52,9.42
+457,457,Credit Card,Failed,2026-07-07 12:09:52,4.08
+458,458,Mobile App Wallet,Failed,2026-09-04 10:11:52,2.06
+459,459,Mobile App Wallet,Failed,2026-06-24 01:24:52,26.44
+460,460,Apple Pay,Completed,2026-06-13 15:51:52,5.92
+461,461,Credit Card,Completed,2026-09-07 02:23:52,20.97
+462,462,Mobile App Wallet,Completed,2026-08-21 21:13:52,6.41
+463,463,Mobile App Wallet,Completed,2026-08-17 12:40:52,11.07
+464,464,Mobile App Wallet,Completed,2026-08-28 01:07:52,12.04
+465,465,RFID Card,Completed,2026-08-17 17:25:52,30.93
+466,466,Apple Pay,Failed,2026-06-26 18:18:52,38.49
+467,467,Mobile App Wallet,Completed,2026-09-01 12:16:52,16.05
+468,468,Mobile App Wallet,Completed,2026-08-29 10:13:52,27.71
+469,469,RFID Card,Completed,2026-07-26 17:07:52,3.61
+470,470,Credit Card,Completed,2026-08-10 17:20:52,4.85
+471,471,Apple Pay,Completed,2026-09-04 20:01:52,2.69
+472,472,RFID Card,Failed,2026-08-05 01:20:52,10.01
+473,473,Credit Card,Failed,2026-08-24 10:09:52,13.78
+474,474,Apple Pay,Completed,2026-07-13 06:36:52,19.43
+475,475,Apple Pay,Completed,2026-08-07 02:34:52,40.42
+476,476,Apple Pay,Completed,2026-08-28 16:17:52,14.0
+477,477,Apple Pay,Failed,2026-06-25 20:39:52,41.06
+478,478,Apple Pay,Completed,2026-06-14 20:21:52,39.58
+479,479,Credit Card,Completed,2026-09-08 10:00:52,15.05
+480,480,Apple Pay,Failed,2026-09-01 01:40:52,32.76
+481,481,Mobile App Wallet,Completed,2026-07-02 23:35:52,13.14
+482,482,Credit Card,Completed,2026-07-21 14:04:52,17.7
+483,483,Credit Card,Failed,2026-08-29 22:18:52,8.52
+484,484,Credit Card,Completed,2026-08-26 11:47:52,9.97
+485,485,Credit Card,Completed,2026-08-30 09:49:52,9.06
+486,486,Credit Card,Completed,2026-06-16 12:31:52,8.12
+487,487,Apple Pay,Completed,2026-07-02 12:15:52,31.09
+488,488,Credit Card,Completed,2026-07-20 00:21:52,12.87
+489,489,Mobile App Wallet,Completed,2026-06-27 12:26:52,6.24
+490,490,Apple Pay,Completed,2026-06-25 09:48:52,11.93
+491,491,Mobile App Wallet,Failed,2026-07-21 23:21:52,49.55
+492,492,RFID Card,Completed,2026-08-31 04:38:52,39.11
+493,493,Apple Pay,Failed,2026-06-15 03:31:52,33.85
+494,494,RFID Card,Completed,2026-07-26 08:55:52,14.95
+495,495,RFID Card,Completed,2026-07-20 06:18:52,15.86
+496,496,Apple Pay,Failed,2026-08-23 08:06:52,16.5
+497,497,Apple Pay,Failed,2026-06-29 06:10:52,27.5
+498,498,Mobile App Wallet,Completed,2026-08-16 23:17:52,12.36
+499,499,Mobile App Wallet,Failed,2026-06-30 21:21:52,6.38
+500,500,Apple Pay,Completed,2026-06-25 23:26:52,37.78
+501,501,Mobile App Wallet,Completed,2026-07-29 04:31:52,17.42
+502,502,Mobile App Wallet,Completed,2026-07-06 16:58:52,2.14
+503,503,Mobile App Wallet,Completed,2026-08-17 23:33:52,5.56
+504,504,Credit Card,Completed,2026-08-09 03:19:52,13.28
+505,505,Mobile App Wallet,Completed,2026-06-16 17:13:52,9.43
+506,506,RFID Card,Completed,2026-07-17 22:16:52,15.95
+507,507,RFID Card,Completed,2026-06-25 15:23:52,25.8
+508,508,Apple Pay,Completed,2026-07-18 07:19:52,11.44
+509,509,Apple Pay,Failed,2026-08-11 09:51:52,9.53
+510,510,RFID Card,Completed,2026-08-27 08:55:52,33.92
+511,511,Apple Pay,Completed,2026-09-05 07:25:52,12.57
+512,512,Mobile App Wallet,Completed,2026-09-07 11:05:52,24.24
+513,513,Apple Pay,Failed,2026-07-05 12:43:52,41.04
+514,514,RFID Card,Completed,2026-08-10 17:45:52,23.9
+515,515,RFID Card,Completed,2026-06-28 06:10:52,16.69
+516,516,Mobile App Wallet,Failed,2026-08-10 02:43:52,15.89
+517,517,RFID Card,Completed,2026-07-24 21:44:52,7.62
+518,518,Apple Pay,Completed,2026-09-04 17:34:52,17.01
+519,519,Apple Pay,Completed,2026-08-06 19:23:52,4.35
+520,520,Mobile App Wallet,Completed,2026-09-03 14:21:52,16.68
+521,521,RFID Card,Completed,2026-07-19 03:27:52,23.4
+522,522,Apple Pay,Completed,2026-07-20 03:34:52,19.54
+523,523,Credit Card,Completed,2026-07-29 05:24:52,37.51
+524,524,Apple Pay,Failed,2026-08-06 12:38:52,10.24
+525,525,RFID Card,Failed,2026-07-09 11:33:52,3.68
+526,526,Mobile App Wallet,Failed,2026-09-04 16:31:52,4.38
+527,527,Apple Pay,Completed,2026-06-28 17:13:52,12.68
+528,528,Mobile App Wallet,Failed,2026-08-05 08:08:52,21.15
+529,529,Apple Pay,Completed,2026-08-24 05:15:52,37.88
+530,530,Credit Card,Completed,2026-08-23 05:40:52,3.33
+531,531,Mobile App Wallet,Failed,2026-08-17 23:02:52,4.49
+532,532,Credit Card,Completed,2026-09-04 12:07:52,30.74
+533,533,Apple Pay,Completed,2026-06-13 06:01:52,45.87
+534,534,Credit Card,Failed,2026-07-02 16:37:52,39.42
+535,535,RFID Card,Failed,2026-08-23 15:17:52,16.55
+536,536,RFID Card,Completed,2026-08-14 16:26:52,18.9
+537,537,RFID Card,Completed,2026-06-26 10:03:52,11.78
+538,538,Credit Card,Completed,2026-07-12 05:47:52,44.06
+539,539,Mobile App Wallet,Completed,2026-08-14 03:48:52,5.01
+540,540,Credit Card,Completed,2026-07-25 15:09:52,15.67
+541,541,Apple Pay,Completed,2026-08-11 00:07:52,4.95
+542,542,Credit Card,Completed,2026-08-05 14:33:52,24.26
+543,543,Credit Card,Completed,2026-07-27 03:09:52,22.32
+544,544,RFID Card,Completed,2026-08-01 04:11:52,33.73
+545,545,Credit Card,Failed,2026-06-13 09:38:52,3.4
+546,546,Credit Card,Completed,2026-07-17 20:41:52,3.59
+547,547,Apple Pay,Completed,2026-06-27 10:50:52,38.13
+548,548,Apple Pay,Completed,2026-07-04 22:38:52,14.1
+549,549,RFID Card,Completed,2026-09-08 11:32:52,7.45
+550,550,Apple Pay,Completed,2026-07-23 14:44:52,6.13
+551,551,Mobile App Wallet,Completed,2026-07-04 09:19:52,3.74
+552,552,Apple Pay,Completed,2026-07-14 15:41:52,11.4
+553,553,Mobile App Wallet,Completed,2026-09-03 08:30:52,35.92
+554,554,Credit Card,Completed,2026-06-12 07:11:52,8.25
+555,555,RFID Card,Completed,2026-09-08 05:53:52,30.58
+556,556,Credit Card,Failed,2026-08-31 09:59:52,30.56
+557,557,Mobile App Wallet,Completed,2026-07-19 09:18:52,9.29
+558,558,Mobile App Wallet,Completed,2026-06-25 10:36:52,8.37
+559,559,RFID Card,Failed,2026-06-15 12:59:52,11.27
+560,560,Apple Pay,Completed,2026-06-13 13:56:52,8.77
+561,561,Credit Card,Completed,2026-09-05 07:07:52,12.66
+562,562,Mobile App Wallet,Completed,2026-08-13 10:22:52,18.17
+563,563,Apple Pay,Completed,2026-08-30 15:36:52,16.74
+564,564,Credit Card,Completed,2026-06-24 18:24:52,36.07
+565,565,RFID Card,Completed,2026-09-06 01:11:52,42.43
+566,566,Apple Pay,Completed,2026-08-25 17:58:52,11.65
+567,567,Mobile App Wallet,Completed,2026-08-20 18:51:52,18.47
+568,568,Mobile App Wallet,Completed,2026-07-29 19:26:52,4.53
+569,569,Mobile App Wallet,Completed,2026-08-25 23:48:52,32.23
+570,570,Apple Pay,Completed,2026-08-02 22:08:52,32.2
+571,571,Credit Card,Completed,2026-07-26 03:43:52,7.09
+572,572,Credit Card,Completed,2026-08-14 22:30:52,35.7
+573,573,Credit Card,Completed,2026-09-07 04:37:52,5.84
+574,574,Credit Card,Completed,2026-08-05 23:19:52,12.67
+575,575,Credit Card,Completed,2026-08-18 17:38:52,11.2
+576,576,Mobile App Wallet,Completed,2026-08-26 08:28:52,16.7
+577,577,Mobile App Wallet,Completed,2026-06-23 21:53:52,13.54
+578,578,Mobile App Wallet,Failed,2026-08-12 16:08:52,3.76
+579,579,Mobile App Wallet,Completed,2026-08-09 14:14:52,23.29
+580,580,Apple Pay,Failed,2026-09-08 07:35:52,3.64
+581,581,Mobile App Wallet,Completed,2026-07-24 21:32:52,29.03
+582,582,Credit Card,Failed,2026-08-12 20:59:52,43.02
+583,583,Credit Card,Failed,2026-07-13 01:16:52,15.31
+584,584,Apple Pay,Completed,2026-08-11 14:19:52,2.25
+585,585,Mobile App Wallet,Completed,2026-07-11 14:59:52,11.16
+586,586,Mobile App Wallet,Failed,2026-07-12 08:30:52,28.29
+587,587,Mobile App Wallet,Completed,2026-08-24 14:48:52,12.22
+588,588,Credit Card,Completed,2026-08-31 15:56:52,11.42
+589,589,Credit Card,Completed,2026-07-16 13:18:52,28.01
+590,590,Apple Pay,Completed,2026-08-16 09:57:52,13.08
+591,591,Mobile App Wallet,Completed,2026-07-04 09:13:52,27.49
+592,592,Mobile App Wallet,Completed,2026-06-26 11:19:52,38.66
+593,593,RFID Card,Failed,2026-08-15 10:58:52,10.74
+594,594,Apple Pay,Completed,2026-08-17 18:07:52,36.48
+595,595,Mobile App Wallet,Completed,2026-06-19 21:15:52,2.98
+596,596,Credit Card,Completed,2026-07-02 21:05:52,25.17
+597,597,RFID Card,Completed,2026-08-19 18:19:52,10.13
+598,598,RFID Card,Failed,2026-07-11 06:27:52,25.48
+599,599,Mobile App Wallet,Completed,2026-09-09 07:34:52,26.86
+600,600,Mobile App Wallet,Completed,2026-07-11 04:57:52,15.9
+601,601,Mobile App Wallet,Completed,2026-07-03 09:01:52,37.86
+602,602,Mobile App Wallet,Failed,2026-09-04 17:31:52,13.32
+603,603,Mobile App Wallet,Completed,2026-07-04 19:04:52,35.96
+604,604,Apple Pay,Completed,2026-07-02 06:11:52,14.23
+605,605,RFID Card,Failed,2026-06-30 15:27:52,48.74
+606,606,RFID Card,Completed,2026-08-24 11:54:52,11.64
+607,607,Apple Pay,Completed,2026-06-16 19:25:52,5.13
+608,608,RFID Card,Completed,2026-06-23 00:59:52,30.39
+609,609,Mobile App Wallet,Failed,2026-08-19 03:26:52,14.97
+610,610,RFID Card,Failed,2026-08-28 05:56:52,7.17
+611,611,Mobile App Wallet,Failed,2026-07-18 01:01:52,19.33
+612,612,Mobile App Wallet,Completed,2026-08-06 23:19:52,11.64
+613,613,Apple Pay,Completed,2026-07-20 06:30:52,19.48
+614,614,Mobile App Wallet,Completed,2026-08-31 21:31:52,27.31
+615,615,Apple Pay,Failed,2026-08-21 04:40:52,42.92
+616,616,Credit Card,Completed,2026-06-11 17:53:52,14.71
+617,617,Apple Pay,Completed,2026-08-13 12:04:52,9.67
+618,618,Apple Pay,Completed,2026-07-28 09:15:52,26.49
+619,619,Mobile App Wallet,Completed,2026-08-23 14:21:52,5.89
+620,620,RFID Card,Completed,2026-06-28 23:44:52,5.48
+621,621,Credit Card,Completed,2026-08-18 09:39:52,25.8
+622,622,Credit Card,Completed,2026-07-22 11:29:52,19.7
+623,623,RFID Card,Completed,2026-06-29 06:14:52,12.31
+624,624,Apple Pay,Failed,2026-07-01 05:23:52,16.32
+625,625,Mobile App Wallet,Failed,2026-06-27 14:20:52,21.35
+626,626,Mobile App Wallet,Completed,2026-07-24 19:23:52,3.68
+627,627,Apple Pay,Completed,2026-09-07 20:12:52,6.66
+628,628,Apple Pay,Completed,2026-08-12 02:13:52,4.98
+629,629,Mobile App Wallet,Completed,2026-06-19 22:05:52,15.65
+630,630,RFID Card,Completed,2026-07-25 13:03:52,43.39
+631,631,Mobile App Wallet,Completed,2026-08-28 22:18:52,4.33
+632,632,RFID Card,Completed,2026-08-18 13:32:52,14.28
+633,633,Mobile App Wallet,Completed,2026-06-24 19:44:52,15.05
+634,634,RFID Card,Completed,2026-07-21 16:18:52,8.82
+635,635,Apple Pay,Completed,2026-06-16 16:47:52,13.27
+636,636,Mobile App Wallet,Completed,2026-07-10 07:01:52,15.1
+637,637,Apple Pay,Completed,2026-07-28 19:26:52,10.87
+638,638,Credit Card,Completed,2026-08-01 03:36:52,42.49
+639,639,Apple Pay,Completed,2026-07-07 09:58:52,3.46
+640,640,Apple Pay,Failed,2026-08-25 09:22:52,47.41
+641,641,Apple Pay,Failed,2026-07-16 19:06:52,12.96
+642,642,Credit Card,Completed,2026-06-28 12:40:52,13.01
+643,643,Credit Card,Failed,2026-09-05 23:47:52,13.46
+644,644,Credit Card,Completed,2026-07-19 11:57:52,29.32
+645,645,Credit Card,Completed,2026-07-31 04:17:52,10.5
+646,646,Apple Pay,Failed,2026-07-20 12:36:52,26.26
+647,647,Apple Pay,Completed,2026-08-23 12:13:52,11.05
+648,648,RFID Card,Completed,2026-07-31 23:23:52,48.55
+649,649,RFID Card,Failed,2026-08-25 15:02:52,8.96
+650,650,Mobile App Wallet,Completed,2026-07-26 01:16:52,9.33
+651,651,RFID Card,Completed,2026-08-25 15:35:52,17.54
+652,652,RFID Card,Completed,2026-07-22 15:38:52,9.47
+653,653,Credit Card,Failed,2026-08-25 14:17:52,32.03
+654,654,Mobile App Wallet,Completed,2026-09-05 20:49:52,29.24
+655,655,RFID Card,Completed,2026-07-07 04:20:52,37.55
+656,656,Credit Card,Completed,2026-08-24 02:09:52,13.5
+657,657,RFID Card,Completed,2026-08-23 06:40:52,6.66
+658,658,Mobile App Wallet,Completed,2026-08-20 00:19:52,7.23
+659,659,RFID Card,Failed,2026-08-16 20:04:52,4.67
+660,660,Mobile App Wallet,Completed,2026-08-30 14:45:52,20.41
+661,661,Mobile App Wallet,Failed,2026-07-20 03:08:52,17.39
+662,662,Credit Card,Completed,2026-09-01 20:10:52,15.8
+663,663,Apple Pay,Completed,2026-07-12 23:54:52,9.36
+664,664,Mobile App Wallet,Completed,2026-07-15 17:28:52,41.08
+665,665,Credit Card,Failed,2026-06-13 14:37:52,21.45
+666,666,RFID Card,Failed,2026-09-03 15:21:52,7.09
+667,667,Mobile App Wallet,Failed,2026-08-26 17:30:52,6.25
+668,668,Credit Card,Failed,2026-06-24 18:44:52,26.63
+669,669,RFID Card,Completed,2026-09-08 18:00:52,22.55
+670,670,Credit Card,Completed,2026-07-29 00:07:52,19.15
+671,671,Mobile App Wallet,Failed,2026-07-30 23:33:52,18.1
+672,672,RFID Card,Completed,2026-07-31 21:03:52,41.01
+673,673,RFID Card,Completed,2026-08-31 02:01:52,9.9
+674,674,Mobile App Wallet,Completed,2026-08-11 13:12:52,15.04
+675,675,Credit Card,Completed,2026-07-27 04:19:52,11.76
+676,676,Mobile App Wallet,Completed,2026-07-05 11:33:52,3.64
+677,677,Apple Pay,Completed,2026-06-21 16:34:52,25.89
+678,678,Mobile App Wallet,Completed,2026-06-28 23:03:52,42.61
+679,679,Credit Card,Completed,2026-07-05 02:53:52,41.31
+680,680,RFID Card,Completed,2026-08-29 08:57:52,42.37
+681,681,Mobile App Wallet,Completed,2026-08-30 03:05:52,14.65
+682,682,Credit Card,Completed,2026-08-18 04:06:52,12.97
+683,683,Mobile App Wallet,Completed,2026-07-05 22:45:52,6.96
+684,684,Credit Card,Completed,2026-09-05 19:33:52,22.01
+685,685,Credit Card,Completed,2026-08-30 04:22:52,6.79
+686,686,RFID Card,Completed,2026-07-23 11:40:52,11.43
+687,687,Credit Card,Completed,2026-06-18 14:42:52,27.93
+688,688,Credit Card,Completed,2026-08-30 02:21:52,31.46
+689,689,Credit Card,Completed,2026-08-15 05:46:52,38.9
+690,690,Apple Pay,Completed,2026-08-05 17:06:52,18.58
+691,691,RFID Card,Failed,2026-08-05 23:25:52,33.78
+692,692,Mobile App Wallet,Completed,2026-08-12 19:38:52,16.37
+693,693,Apple Pay,Completed,2026-07-04 14:57:52,4.01
+694,694,Credit Card,Completed,2026-08-07 02:29:52,8.35
+695,695,RFID Card,Completed,2026-06-22 20:28:52,13.8
+696,696,Apple Pay,Completed,2026-08-18 08:18:52,40.43
+697,697,RFID Card,Completed,2026-07-18 10:35:52,9.7
+698,698,Credit Card,Completed,2026-08-09 13:05:52,27.23
+699,699,RFID Card,Completed,2026-08-30 05:06:52,5.33
+700,700,Mobile App Wallet,Completed,2026-06-21 07:36:52,12.32
+701,701,RFID Card,Completed,2026-06-22 14:08:52,4.0
+702,702,RFID Card,Completed,2026-08-13 03:27:52,39.83
+703,703,Credit Card,Failed,2026-07-07 05:28:52,8.23
+704,704,Apple Pay,Completed,2026-07-05 03:50:52,12.33
+705,705,RFID Card,Failed,2026-07-01 06:35:52,13.88
+706,706,Mobile App Wallet,Failed,2026-08-11 22:02:52,36.73
+707,707,Apple Pay,Completed,2026-06-18 05:36:52,8.73
+708,708,Credit Card,Failed,2026-08-22 21:48:52,12.86
+709,709,RFID Card,Failed,2026-07-31 15:12:52,44.67
+710,710,Mobile App Wallet,Completed,2026-08-08 09:19:52,19.59
+711,711,Credit Card,Failed,2026-08-27 21:43:52,10.36
+712,712,RFID Card,Completed,2026-07-03 10:48:52,11.14
+713,713,Credit Card,Completed,2026-09-08 11:03:52,10.45
+714,714,Mobile App Wallet,Failed,2026-09-08 19:21:52,14.83
+715,715,Credit Card,Completed,2026-07-05 16:38:52,3.8
+716,716,Mobile App Wallet,Completed,2026-09-09 04:52:52,2.06
+717,717,Apple Pay,Failed,2026-07-31 13:44:52,3.19
+718,718,Apple Pay,Failed,2026-08-27 13:10:52,2.3
+719,719,RFID Card,Failed,2026-06-19 06:10:52,12.71
+720,720,Credit Card,Completed,2026-08-14 09:30:52,7.85
+721,721,RFID Card,Failed,2026-07-06 05:35:52,15.66
+722,722,Mobile App Wallet,Completed,2026-07-31 03:46:52,35.96
+723,723,Apple Pay,Completed,2026-06-23 10:24:52,13.54
+724,724,RFID Card,Completed,2026-07-19 21:56:52,3.98
+725,725,RFID Card,Failed,2026-07-01 20:21:52,3.73
+726,726,RFID Card,Completed,2026-07-10 16:53:52,28.56
+727,727,Credit Card,Failed,2026-07-15 19:26:52,13.17
+728,728,Credit Card,Completed,2026-06-25 18:47:52,13.26
+729,729,Apple Pay,Failed,2026-06-26 20:51:52,14.98
+730,730,Mobile App Wallet,Failed,2026-07-01 10:09:52,16.72
+731,731,Credit Card,Completed,2026-06-11 22:15:52,19.59
+732,732,Mobile App Wallet,Completed,2026-08-04 01:03:52,3.85
+733,733,Credit Card,Failed,2026-08-03 05:27:52,41.28
+734,734,RFID Card,Completed,2026-06-13 13:24:52,18.77
+735,735,Credit Card,Completed,2026-07-03 03:04:52,34.63
+736,736,RFID Card,Completed,2026-09-07 12:13:52,38.27
+737,737,Apple Pay,Completed,2026-08-28 18:48:52,23.36
+738,738,Mobile App Wallet,Completed,2026-07-06 21:35:52,9.06
+739,739,Credit Card,Completed,2026-08-16 07:53:52,19.56
+740,740,Credit Card,Completed,2026-07-14 21:31:52,15.19
+741,741,Apple Pay,Completed,2026-08-14 23:40:52,15.68
+742,742,RFID Card,Completed,2026-06-12 03:42:52,36.29
+743,743,Credit Card,Completed,2026-08-24 11:05:52,26.01
+744,744,Apple Pay,Completed,2026-07-06 00:15:52,3.78
+745,745,Apple Pay,Failed,2026-08-04 17:45:52,26.9
+746,746,Apple Pay,Completed,2026-08-14 10:40:52,11.1
+747,747,Mobile App Wallet,Failed,2026-06-28 06:03:52,5.33
+748,748,Credit Card,Completed,2026-07-02 06:14:52,9.92
+749,749,RFID Card,Completed,2026-07-18 14:33:52,13.36
+750,750,RFID Card,Completed,2026-06-14 19:00:52,25.9
+751,751,Apple Pay,Failed,2026-08-12 14:48:52,8.95
+752,752,Mobile App Wallet,Completed,2026-08-23 04:44:52,12.35
+753,753,Credit Card,Failed,2026-08-09 04:57:52,14.64
+754,754,RFID Card,Completed,2026-07-31 23:06:52,14.73
+755,755,Credit Card,Completed,2026-06-15 08:20:52,12.46
+756,756,Credit Card,Completed,2026-08-23 16:10:52,4.36
+757,757,Credit Card,Completed,2026-07-04 13:30:52,5.11
+758,758,Apple Pay,Completed,2026-06-17 04:21:52,19.54
+759,759,RFID Card,Completed,2026-07-29 20:55:52,42.57
+760,760,RFID Card,Completed,2026-06-22 18:24:52,14.4
+761,761,RFID Card,Completed,2026-06-18 22:10:52,6.12
+762,762,Apple Pay,Completed,2026-06-17 21:08:52,9.71
+763,763,Apple Pay,Completed,2026-07-22 04:40:52,4.28
+764,764,RFID Card,Failed,2026-08-21 07:29:52,16.17
+765,765,Mobile App Wallet,Failed,2026-09-01 05:10:52,20.74
+766,766,Mobile App Wallet,Completed,2026-06-16 15:11:52,48.14
+767,767,RFID Card,Completed,2026-07-16 09:14:52,43.27
+768,768,Mobile App Wallet,Completed,2026-08-19 07:41:52,4.68
+769,769,RFID Card,Failed,2026-08-29 06:33:52,44.96
+770,770,Credit Card,Completed,2026-09-03 23:35:52,27.46
+771,771,Apple Pay,Failed,2026-08-28 03:23:52,10.88
+772,772,Credit Card,Completed,2026-09-03 10:42:52,2.22
+773,773,Mobile App Wallet,Failed,2026-07-27 00:34:52,13.65
+774,774,Mobile App Wallet,Completed,2026-06-13 22:35:52,16.4
+775,775,Apple Pay,Completed,2026-06-15 23:27:52,14.83
+776,776,Credit Card,Completed,2026-08-15 05:52:52,14.27
+777,777,Mobile App Wallet,Completed,2026-06-27 23:45:52,43.79
+778,778,Apple Pay,Completed,2026-08-19 10:00:52,17.77
+779,779,Credit Card,Completed,2026-08-02 22:40:52,27.74
+780,780,RFID Card,Completed,2026-08-04 07:09:52,7.49
+781,781,Mobile App Wallet,Completed,2026-07-10 11:07:52,40.31
+782,782,RFID Card,Completed,2026-08-31 08:34:52,11.12
+783,783,Credit Card,Failed,2026-08-10 19:55:52,36.88
+784,784,Credit Card,Failed,2026-08-31 03:29:52,4.61
+785,785,Credit Card,Completed,2026-06-19 18:17:52,2.54
+786,786,Mobile App Wallet,Completed,2026-08-21 15:16:52,7.22
+787,787,Credit Card,Failed,2026-08-10 04:55:52,34.04
+788,788,Mobile App Wallet,Completed,2026-08-25 18:53:52,3.4
+789,789,Mobile App Wallet,Completed,2026-07-14 01:50:52,11.58
+790,790,RFID Card,Completed,2026-06-18 19:09:52,26.48
+791,791,Mobile App Wallet,Completed,2026-07-21 08:56:52,9.29
+792,792,Mobile App Wallet,Completed,2026-08-21 15:16:52,14.34
+793,793,RFID Card,Completed,2026-09-05 06:04:52,33.24
+794,794,Mobile App Wallet,Completed,2026-07-01 16:00:52,11.38
+795,795,Mobile App Wallet,Failed,2026-07-08 21:15:52,12.7
+796,796,Mobile App Wallet,Completed,2026-07-27 13:56:52,3.7
+797,797,Mobile App Wallet,Completed,2026-08-31 08:51:52,3.92
+798,798,Mobile App Wallet,Completed,2026-07-09 21:51:52,19.54
+799,799,RFID Card,Completed,2026-07-14 15:57:52,9.45
+800,800,Credit Card,Completed,2026-07-12 01:47:52,10.72
+801,801,Apple Pay,Completed,2026-07-05 20:31:52,37.14
+802,802,RFID Card,Completed,2026-08-29 08:50:52,17.89
+803,803,Mobile App Wallet,Completed,2026-07-16 19:25:52,14.87
+804,804,Apple Pay,Failed,2026-08-28 16:41:52,24.51
+805,805,Apple Pay,Completed,2026-07-29 07:08:52,11.46
+806,806,Apple Pay,Completed,2026-09-01 07:11:52,14.76
+807,807,RFID Card,Completed,2026-07-21 03:53:52,32.07
+808,808,Apple Pay,Completed,2026-06-22 00:01:52,9.0
+809,809,RFID Card,Failed,2026-08-10 03:21:52,41.69
+810,810,RFID Card,Completed,2026-08-06 22:22:52,4.45
+811,811,RFID Card,Completed,2026-06-23 16:57:52,8.68
+812,812,RFID Card,Completed,2026-07-13 23:18:52,14.16
+813,813,Apple Pay,Completed,2026-07-18 01:54:52,18.81
+814,814,Apple Pay,Completed,2026-07-11 13:01:52,8.2
+815,815,Credit Card,Completed,2026-07-06 03:56:52,4.63
+816,816,RFID Card,Completed,2026-06-27 22:10:52,29.12
+817,817,Credit Card,Completed,2026-09-07 03:26:52,8.14
+818,818,Apple Pay,Completed,2026-08-23 11:46:52,14.14
+819,819,RFID Card,Completed,2026-08-19 02:34:52,3.27
+820,820,Credit Card,Completed,2026-09-06 05:40:52,12.96
+821,821,Apple Pay,Completed,2026-07-30 22:33:52,8.0
+822,822,Mobile App Wallet,Failed,2026-06-12 19:26:52,9.65
+823,823,RFID Card,Failed,2026-06-20 02:10:52,11.98
+824,824,Apple Pay,Completed,2026-08-10 20:26:52,41.11
+825,825,RFID Card,Failed,2026-06-30 04:07:52,29.07
+826,826,RFID Card,Completed,2026-08-23 14:31:52,5.69
+827,827,Apple Pay,Failed,2026-07-04 02:21:52,13.95
+828,828,Mobile App Wallet,Completed,2026-09-09 08:07:52,14.73
+829,829,Apple Pay,Failed,2026-08-18 22:20:52,32.43
+830,830,Apple Pay,Failed,2026-06-26 23:51:52,29.31
+831,831,Apple Pay,Completed,2026-07-08 06:21:52,2.16
+832,832,RFID Card,Failed,2026-07-06 00:25:52,16.32
+833,833,Mobile App Wallet,Failed,2026-06-19 15:58:52,11.43
+834,834,Apple Pay,Completed,2026-07-02 13:24:52,6.12
+835,835,Mobile App Wallet,Completed,2026-06-13 10:17:52,23.16
+836,836,Apple Pay,Completed,2026-07-09 03:17:52,17.0
+837,837,RFID Card,Completed,2026-08-26 14:00:52,34.91
+838,838,Credit Card,Completed,2026-06-14 01:25:52,19.43
+839,839,RFID Card,Completed,2026-07-03 11:42:52,10.06
+840,840,Credit Card,Completed,2026-07-06 09:52:52,7.13
+841,841,Credit Card,Failed,2026-07-26 22:35:52,25.09
+842,842,Credit Card,Completed,2026-07-09 16:14:52,35.31
+843,843,RFID Card,Completed,2026-07-20 08:18:52,32.95
+844,844,Apple Pay,Completed,2026-08-31 11:19:52,22.2
+845,845,Credit Card,Completed,2026-08-28 08:26:52,25.7
+846,846,Credit Card,Completed,2026-06-26 23:25:52,15.69
+847,847,Mobile App Wallet,Failed,2026-07-18 20:06:52,6.57
+848,848,Apple Pay,Completed,2026-06-28 23:25:52,16.18
+849,849,Mobile App Wallet,Completed,2026-07-11 13:09:52,7.2
+850,850,Apple Pay,Completed,2026-08-17 00:25:52,13.59
+851,851,Mobile App Wallet,Completed,2026-08-31 17:06:52,10.6
+852,852,Mobile App Wallet,Completed,2026-08-09 22:21:52,16.12
+853,853,Credit Card,Completed,2026-08-08 09:42:52,13.44
+854,854,Mobile App Wallet,Failed,2026-07-03 05:37:52,8.62
+855,855,Mobile App Wallet,Completed,2026-07-30 02:36:52,39.8
+856,856,Credit Card,Completed,2026-08-09 23:02:52,6.87
+857,857,Apple Pay,Failed,2026-08-10 19:18:52,8.67
+858,858,Apple Pay,Completed,2026-07-29 02:10:52,13.78
+859,859,Apple Pay,Completed,2026-08-22 19:24:52,47.98
+860,860,Apple Pay,Completed,2026-09-03 03:08:52,33.78
+861,861,Mobile App Wallet,Completed,2026-09-05 15:50:52,3.8
+862,862,Apple Pay,Failed,2026-08-25 10:55:52,3.4
+863,863,Apple Pay,Completed,2026-06-22 06:07:52,38.84
+864,864,Credit Card,Completed,2026-08-15 07:40:52,9.71
+865,865,RFID Card,Completed,2026-07-25 17:31:52,14.35
+866,866,Apple Pay,Completed,2026-06-11 17:11:52,30.15
+867,867,Apple Pay,Completed,2026-07-05 11:19:52,11.23
+868,868,Apple Pay,Completed,2026-06-19 12:21:52,5.3
+869,869,RFID Card,Completed,2026-06-21 23:02:52,5.26
+870,870,Credit Card,Completed,2026-08-12 04:29:52,8.89
+871,871,Apple Pay,Failed,2026-08-16 15:19:52,29.96
+872,872,RFID Card,Completed,2026-08-28 03:16:52,36.63
+873,873,Credit Card,Completed,2026-08-02 01:14:52,48.73
+874,874,RFID Card,Completed,2026-08-02 12:49:52,3.62
+875,875,Credit Card,Completed,2026-08-30 12:04:52,25.84
+876,876,Apple Pay,Failed,2026-07-27 15:35:52,31.7
+877,877,Apple Pay,Completed,2026-06-22 01:49:52,19.48
+878,878,Mobile App Wallet,Failed,2026-06-30 07:43:52,16.15
+879,879,Credit Card,Failed,2026-09-06 08:15:52,4.07
+880,880,Credit Card,Failed,2026-07-11 20:17:52,15.63
+881,881,RFID Card,Failed,2026-07-02 00:56:52,34.89
+882,882,Credit Card,Completed,2026-09-04 19:36:52,10.35
+883,883,Apple Pay,Completed,2026-08-26 16:29:52,6.89
+884,884,Credit Card,Completed,2026-06-25 21:54:52,10.51
+885,885,Apple Pay,Failed,2026-07-30 07:08:52,18.49
+886,886,Credit Card,Failed,2026-07-28 10:52:52,26.01
+887,887,Apple Pay,Completed,2026-08-08 23:45:52,13.1
+888,888,Credit Card,Completed,2026-06-30 12:11:52,33.21
+889,889,Credit Card,Completed,2026-08-12 10:09:52,8.48
+890,890,Mobile App Wallet,Failed,2026-07-08 13:17:52,14.76
+891,891,RFID Card,Failed,2026-07-20 10:59:52,15.18
+892,892,RFID Card,Completed,2026-07-26 01:04:52,30.27
+893,893,RFID Card,Failed,2026-07-31 16:51:52,15.61
+894,894,Mobile App Wallet,Completed,2026-08-23 18:52:52,17.78
+895,895,Apple Pay,Failed,2026-09-02 15:11:52,10.97
+896,896,Credit Card,Completed,2026-06-18 17:44:52,6.16
+897,897,Mobile App Wallet,Failed,2026-07-01 10:50:52,7.24
+898,898,Apple Pay,Failed,2026-09-08 09:08:52,16.0
+899,899,Credit Card,Failed,2026-09-03 02:46:52,5.18
+900,900,RFID Card,Completed,2026-08-15 21:52:52,9.53
+901,901,Credit Card,Completed,2026-07-31 05:53:52,18.04
+902,902,Credit Card,Completed,2026-08-18 17:51:52,7.12
+903,903,Credit Card,Failed,2026-07-08 10:48:52,13.8
+904,904,RFID Card,Completed,2026-06-16 17:49:52,13.97
+905,905,Mobile App Wallet,Completed,2026-08-15 00:03:52,6.03
+906,906,RFID Card,Completed,2026-07-19 11:48:52,3.69
+907,907,Mobile App Wallet,Completed,2026-08-15 19:30:52,14.13
+908,908,RFID Card,Completed,2026-07-19 21:03:52,31.28
+909,909,Apple Pay,Failed,2026-08-04 16:01:52,16.68
+910,910,RFID Card,Completed,2026-09-06 02:41:52,12.04
+911,911,Mobile App Wallet,Completed,2026-08-23 12:12:52,9.97
+912,912,Apple Pay,Completed,2026-06-15 07:55:52,7.66
+913,913,Mobile App Wallet,Completed,2026-06-23 01:44:52,35.31
+914,914,Mobile App Wallet,Completed,2026-07-29 20:11:52,16.12
+915,915,Credit Card,Completed,2026-06-24 07:09:52,44.2
+916,916,Apple Pay,Completed,2026-07-30 19:59:52,9.25
+917,917,Apple Pay,Completed,2026-09-07 05:45:52,30.97
+918,918,Apple Pay,Completed,2026-09-01 01:09:52,10.96
+919,919,RFID Card,Completed,2026-08-10 05:49:52,41.6
+920,920,Credit Card,Completed,2026-07-21 15:21:52,10.06
+921,921,Apple Pay,Completed,2026-06-22 14:00:52,18.54
+922,922,Credit Card,Completed,2026-08-16 12:20:52,11.22
+923,923,Apple Pay,Completed,2026-08-05 12:23:52,7.23
+924,924,RFID Card,Completed,2026-08-17 19:51:52,20.51
+925,925,Credit Card,Completed,2026-07-29 18:12:52,19.47
+926,926,Mobile App Wallet,Completed,2026-07-18 20:34:52,11.76
+927,927,RFID Card,Completed,2026-06-16 05:56:52,17.2
+928,928,Apple Pay,Completed,2026-07-23 22:10:52,7.49
+929,929,Apple Pay,Completed,2026-08-06 03:54:52,26.35
+930,930,RFID Card,Completed,2026-07-01 10:34:52,27.92
+931,931,Mobile App Wallet,Completed,2026-08-18 22:19:52,10.66
+932,932,Credit Card,Completed,2026-08-05 13:33:52,13.07
+933,933,Credit Card,Failed,2026-07-23 14:21:52,47.62
+934,934,Apple Pay,Completed,2026-08-14 10:38:52,6.19
+935,935,Credit Card,Completed,2026-06-13 17:58:52,25.3
+936,936,Apple Pay,Completed,2026-06-13 03:05:52,7.86
+937,937,Mobile App Wallet,Failed,2026-08-15 18:47:52,40.12
+938,938,Mobile App Wallet,Completed,2026-06-25 13:15:52,29.3
+939,939,Credit Card,Completed,2026-08-01 14:27:52,14.34
+940,940,Mobile App Wallet,Completed,2026-07-30 03:12:52,32.5
+941,941,RFID Card,Completed,2026-06-19 07:32:52,4.05
+942,942,Credit Card,Completed,2026-08-03 19:53:52,6.2
+943,943,RFID Card,Failed,2026-08-10 23:54:52,10.93
+944,944,RFID Card,Completed,2026-07-19 15:30:52,31.89
+945,945,Mobile App Wallet,Failed,2026-08-26 06:34:52,18.33
+946,946,Mobile App Wallet,Failed,2026-06-28 11:42:52,11.63
+947,947,Mobile App Wallet,Completed,2026-08-20 08:59:52,33.41
+948,948,RFID Card,Failed,2026-08-04 07:10:52,45.28
+949,949,Mobile App Wallet,Completed,2026-06-27 03:28:52,10.11
+950,950,Apple Pay,Failed,2026-07-18 14:12:52,35.9
+951,951,Apple Pay,Failed,2026-08-15 16:23:52,11.93
+952,952,Apple Pay,Completed,2026-07-07 18:01:52,12.64
+953,953,Credit Card,Completed,2026-07-19 12:59:52,11.59
+954,954,Credit Card,Completed,2026-08-31 18:28:52,46.75
+955,955,RFID Card,Completed,2026-06-25 14:30:52,34.6
+956,956,RFID Card,Completed,2026-07-15 13:13:52,45.56
+957,957,Credit Card,Failed,2026-07-26 21:18:52,6.12
+958,958,Mobile App Wallet,Completed,2026-08-31 11:20:52,4.58
+959,959,Apple Pay,Completed,2026-08-25 10:53:52,12.9
+960,960,Mobile App Wallet,Failed,2026-06-23 05:29:52,13.96
+961,961,Apple Pay,Completed,2026-09-01 22:41:52,13.17
+962,962,Credit Card,Completed,2026-06-21 03:32:52,14.07
+963,963,Credit Card,Completed,2026-06-13 09:03:52,9.54
+964,964,Credit Card,Completed,2026-06-21 23:10:52,13.09
+965,965,RFID Card,Completed,2026-07-06 19:15:52,39.43
+966,966,Credit Card,Completed,2026-07-12 15:03:52,13.55
+967,967,Credit Card,Completed,2026-07-18 17:39:52,12.41
+968,968,Credit Card,Failed,2026-06-30 01:15:52,4.85
+969,969,Credit Card,Completed,2026-07-09 17:10:52,11.65
+970,970,Apple Pay,Completed,2026-08-27 18:21:52,26.4
+971,971,RFID Card,Failed,2026-07-20 09:26:52,8.95
+972,972,Mobile App Wallet,Completed,2026-07-15 11:31:52,35.7
+973,973,Apple Pay,Completed,2026-08-08 14:13:52,16.64
+974,974,Apple Pay,Failed,2026-07-22 18:10:52,6.56
+975,975,Apple Pay,Failed,2026-08-28 09:17:52,36.18
+976,976,Apple Pay,Completed,2026-08-19 08:08:52,26.61
+977,977,RFID Card,Completed,2026-08-04 05:53:52,32.61
+978,978,RFID Card,Completed,2026-07-28 06:25:52,18.4
+979,979,Mobile App Wallet,Completed,2026-07-19 04:51:52,14.92
+980,980,Apple Pay,Completed,2026-06-28 16:41:52,9.43
+981,981,Credit Card,Completed,2026-06-25 10:16:52,24.46
+982,982,Mobile App Wallet,Completed,2026-06-21 19:28:52,9.48
+983,983,Apple Pay,Completed,2026-06-29 13:10:52,27.89
+984,984,Mobile App Wallet,Completed,2026-06-30 17:01:52,8.46
+985,985,Mobile App Wallet,Failed,2026-09-07 04:02:52,46.42
+986,986,Credit Card,Completed,2026-06-23 05:17:52,11.83
+987,987,Apple Pay,Completed,2026-08-22 08:33:52,12.82
+988,988,Mobile App Wallet,Completed,2026-08-02 00:44:52,12.64
+989,989,Mobile App Wallet,Completed,2026-06-21 01:24:52,9.66
+990,990,Credit Card,Completed,2026-08-26 14:28:52,14.06
+991,991,Credit Card,Completed,2026-08-23 08:47:52,15.12
+992,992,RFID Card,Failed,2026-07-20 13:55:52,41.82
+993,993,Mobile App Wallet,Completed,2026-06-28 11:28:52,8.67
+994,994,Apple Pay,Completed,2026-08-12 07:25:52,17.74
+995,995,RFID Card,Failed,2026-07-10 19:48:52,34.98
+996,996,Mobile App Wallet,Completed,2026-07-19 01:50:52,2.34
+997,997,Credit Card,Completed,2026-06-20 19:37:52,19.61
+998,998,RFID Card,Completed,2026-08-20 15:16:52,23.67
+999,999,RFID Card,Failed,2026-08-24 00:05:52,2.76
+1000,1000,Credit Card,Completed,2026-08-07 09:55:52,14.49
+1001,1001,RFID Card,Completed,2026-08-03 08:52:52,26.68
+1002,1002,Mobile App Wallet,Completed,2026-08-15 02:47:52,13.44
+1003,1003,Mobile App Wallet,Failed,2026-07-19 02:56:52,9.79
+1004,1004,Credit Card,Completed,2026-06-23 01:49:52,10.47
+1005,1005,Credit Card,Completed,2026-06-25 03:00:52,16.73
+1006,1006,Credit Card,Completed,2026-08-12 21:06:52,3.34
+1007,1007,Credit Card,Completed,2026-08-31 21:06:52,2.22
+1008,1008,RFID Card,Completed,2026-07-08 13:39:52,14.66
+1009,1009,Apple Pay,Failed,2026-06-21 17:35:52,25.21
+1010,1010,RFID Card,Completed,2026-09-04 20:45:52,3.05
+1011,1011,Apple Pay,Completed,2026-07-26 03:52:52,26.58
+1012,1012,RFID Card,Completed,2026-07-30 15:28:52,14.45
+1013,1013,RFID Card,Completed,2026-08-08 18:13:52,3.33
+1014,1014,Mobile App Wallet,Failed,2026-09-01 05:29:52,10.81
+1015,1015,Credit Card,Completed,2026-07-03 08:40:52,19.83
+1016,1016,Apple Pay,Failed,2026-07-19 22:24:52,11.24
+1017,1017,Apple Pay,Failed,2026-08-20 03:19:52,11.38
+1018,1018,Apple Pay,Completed,2026-08-21 09:49:52,26.48
+1019,1019,Apple Pay,Completed,2026-06-23 15:38:52,4.68
+1020,1020,RFID Card,Failed,2026-08-30 08:09:52,10.53
+1021,1021,Credit Card,Completed,2026-08-09 06:14:52,4.44
+1022,1022,Mobile App Wallet,Completed,2026-09-02 12:52:52,8.81
+1023,1023,Apple Pay,Completed,2026-07-15 00:00:52,14.31
+1024,1024,RFID Card,Completed,2026-07-01 02:26:52,42.32
+1025,1025,Credit Card,Failed,2026-07-12 06:35:52,10.12
+1026,1026,Apple Pay,Completed,2026-07-31 13:15:52,39.85
+1027,1027,RFID Card,Completed,2026-06-28 07:09:52,9.59
+1028,1028,Credit Card,Completed,2026-06-22 16:13:52,7.72
+1029,1029,Mobile App Wallet,Completed,2026-06-15 12:40:52,49.07
+1030,1030,RFID Card,Completed,2026-07-19 19:57:52,11.6
+1031,1031,Credit Card,Failed,2026-06-30 11:05:52,19.45
+1032,1032,Credit Card,Failed,2026-06-24 17:46:52,17.96
+1033,1033,Credit Card,Completed,2026-07-31 15:57:52,7.39
+1034,1034,RFID Card,Completed,2026-07-30 00:56:52,36.41
+1035,1035,RFID Card,Failed,2026-08-23 09:07:52,13.33
+1036,1036,Mobile App Wallet,Completed,2026-08-19 14:44:52,15.44
+1037,1037,Credit Card,Completed,2026-08-17 05:48:52,17.42
+1038,1038,Mobile App Wallet,Completed,2026-06-28 19:58:52,5.41
+1039,1039,Apple Pay,Failed,2026-08-21 10:38:52,11.86
+1040,1040,RFID Card,Completed,2026-07-03 20:15:52,19.07
+1041,1041,RFID Card,Completed,2026-08-13 04:11:52,25.98
+1042,1042,Apple Pay,Completed,2026-08-04 20:27:52,9.37
+1043,1043,Apple Pay,Completed,2026-07-14 08:02:52,33.41
+1044,1044,Mobile App Wallet,Completed,2026-07-23 02:58:52,9.1
+1045,1045,Mobile App Wallet,Failed,2026-07-21 16:42:52,36.89
+1046,1046,Mobile App Wallet,Completed,2026-07-11 07:03:52,17.51
+1047,1047,Apple Pay,Completed,2026-08-28 11:51:52,13.85
+1048,1048,Apple Pay,Completed,2026-07-06 16:18:52,29.07
+1049,1049,RFID Card,Completed,2026-07-03 10:12:52,9.52
+1050,1050,Credit Card,Completed,2026-06-12 03:12:52,13.16
+1051,1051,RFID Card,Completed,2026-06-13 15:15:52,13.0
+1052,1052,Credit Card,Failed,2026-07-26 02:48:52,12.26
+1053,1053,RFID Card,Completed,2026-08-09 06:59:52,19.16
+1054,1054,Mobile App Wallet,Completed,2026-06-17 12:55:52,15.21
+1055,1055,Credit Card,Completed,2026-07-29 05:34:52,7.49
+1056,1056,RFID Card,Completed,2026-07-15 01:41:52,12.49
+1057,1057,Apple Pay,Completed,2026-08-08 16:50:52,13.44
+1058,1058,Apple Pay,Completed,2026-07-12 08:56:52,48.78
+1059,1059,Mobile App Wallet,Completed,2026-07-19 11:56:52,27.41
+1060,1060,Mobile App Wallet,Failed,2026-06-18 19:16:52,8.12
+1061,1061,RFID Card,Failed,2026-07-08 09:24:52,29.7
+1062,1062,Apple Pay,Failed,2026-08-14 16:52:52,17.53
+1063,1063,RFID Card,Completed,2026-07-07 00:50:52,17.3
+1064,1064,Mobile App Wallet,Completed,2026-06-25 12:29:52,2.02
+1065,1065,RFID Card,Failed,2026-09-04 06:19:52,7.58
+1066,1066,RFID Card,Completed,2026-08-01 06:58:52,6.31
+1067,1067,Apple Pay,Completed,2026-09-03 02:55:52,14.28
+1068,1068,Mobile App Wallet,Completed,2026-08-18 10:04:52,10.35
+1069,1069,RFID Card,Completed,2026-06-17 15:05:52,7.14
+1070,1070,Apple Pay,Completed,2026-08-02 01:11:52,17.57
+1071,1071,Credit Card,Completed,2026-07-26 11:11:52,7.95
+1072,1072,Mobile App Wallet,Completed,2026-08-30 05:26:52,37.99
+1073,1073,Apple Pay,Failed,2026-07-02 19:38:52,5.54
+1074,1074,RFID Card,Failed,2026-07-03 21:36:52,6.02
+1075,1075,RFID Card,Completed,2026-08-12 20:19:52,3.95
+1076,1076,Apple Pay,Failed,2026-07-02 17:34:52,12.62
+1077,1077,Credit Card,Completed,2026-08-19 23:07:52,5.22
+1078,1078,Credit Card,Completed,2026-07-24 07:42:52,28.48
+1079,1079,RFID Card,Completed,2026-09-03 18:50:52,2.22
+1080,1080,Mobile App Wallet,Completed,2026-07-06 01:28:52,14.83
+1081,1081,RFID Card,Completed,2026-07-24 02:44:52,47.49
+1082,1082,RFID Card,Completed,2026-08-17 13:18:52,3.46
+1083,1083,Mobile App Wallet,Completed,2026-08-14 11:29:52,36.59
+1084,1084,Credit Card,Completed,2026-06-19 23:17:52,10.19
+1085,1085,RFID Card,Completed,2026-06-12 01:43:52,9.1
+1086,1086,Apple Pay,Completed,2026-08-21 17:35:52,12.44
+1087,1087,Apple Pay,Failed,2026-06-16 05:50:52,5.16
+1088,1088,Mobile App Wallet,Completed,2026-07-20 08:24:52,31.76
+1089,1089,Apple Pay,Completed,2026-08-04 06:50:52,21.08
+1090,1090,Apple Pay,Completed,2026-06-23 18:47:52,37.13
+1091,1091,Apple Pay,Completed,2026-08-04 01:57:52,18.26
+1092,1092,Mobile App Wallet,Completed,2026-08-28 23:13:52,32.44
+1093,1093,Credit Card,Completed,2026-07-31 16:47:52,8.05
+1094,1094,Apple Pay,Completed,2026-09-02 18:14:52,12.52
+1095,1095,Apple Pay,Completed,2026-08-25 10:06:52,32.56
+1096,1096,Apple Pay,Completed,2026-08-31 19:20:52,8.33
+1097,1097,Mobile App Wallet,Completed,2026-06-11 17:29:52,26.02
+1098,1098,Apple Pay,Failed,2026-08-15 03:00:52,46.7
+1099,1099,Apple Pay,Completed,2026-08-19 23:49:52,14.44
+1100,1100,Apple Pay,Failed,2026-07-04 18:14:52,13.45
+1101,1101,Apple Pay,Failed,2026-09-04 18:04:52,23.65
+1102,1102,Apple Pay,Completed,2026-08-10 04:01:52,14.61
+1103,1103,Credit Card,Completed,2026-06-13 06:48:52,10.51
+1104,1104,RFID Card,Failed,2026-08-08 21:01:52,20.18
+1105,1105,Apple Pay,Completed,2026-07-04 10:00:52,35.56
+1106,1106,Apple Pay,Failed,2026-09-04 00:00:52,2.72
+1107,1107,Mobile App Wallet,Completed,2026-07-05 09:15:52,40.48
+1108,1108,Mobile App Wallet,Completed,2026-07-26 08:43:52,4.32
+1109,1109,Mobile App Wallet,Completed,2026-06-25 06:21:52,18.95
+1110,1110,Credit Card,Completed,2026-07-31 02:36:52,11.05
+1111,1111,RFID Card,Completed,2026-08-07 02:40:52,37.56
+1112,1112,RFID Card,Failed,2026-07-29 19:27:52,27.34
+1113,1113,Credit Card,Completed,2026-07-17 20:14:52,22.92
+1114,1114,Apple Pay,Completed,2026-06-23 18:58:52,45.35
+1115,1115,Mobile App Wallet,Failed,2026-09-07 15:03:52,26.31
+1116,1116,Apple Pay,Failed,2026-07-27 10:41:52,17.28
+1117,1117,Credit Card,Completed,2026-06-21 06:58:52,40.77
+1118,1118,RFID Card,Failed,2026-06-18 09:19:52,9.43
+1119,1119,RFID Card,Failed,2026-06-19 17:58:52,26.54
+1120,1120,Credit Card,Completed,2026-08-20 11:46:52,32.54
+1121,1121,Credit Card,Completed,2026-07-14 18:57:52,14.25
+1122,1122,Apple Pay,Completed,2026-08-23 08:14:52,8.91
+1123,1123,Mobile App Wallet,Completed,2026-06-27 21:17:52,3.2
+1124,1124,Apple Pay,Completed,2026-07-19 19:36:52,8.25
+1125,1125,Apple Pay,Completed,2026-06-18 02:46:52,11.19
+1126,1126,Apple Pay,Completed,2026-06-27 09:52:52,23.01
+1127,1127,Credit Card,Completed,2026-06-23 07:19:52,10.02
+1128,1128,RFID Card,Completed,2026-06-18 17:35:52,20.15
+1129,1129,RFID Card,Completed,2026-08-28 01:22:52,14.03
+1130,1130,Mobile App Wallet,Completed,2026-07-26 21:06:52,47.34
+1131,1131,Apple Pay,Completed,2026-08-20 04:40:52,6.48
+1132,1132,Credit Card,Completed,2026-06-29 05:53:52,34.01
+1133,1133,Credit Card,Completed,2026-06-15 21:57:52,10.57
+1134,1134,Credit Card,Completed,2026-07-15 22:36:52,8.16
+1135,1135,Mobile App Wallet,Completed,2026-08-13 14:53:52,9.55
+1136,1136,RFID Card,Completed,2026-09-04 02:08:52,14.1
+1137,1137,RFID Card,Failed,2026-07-24 23:43:52,6.77
+1138,1138,Apple Pay,Failed,2026-06-18 17:35:52,47.79
+1139,1139,Mobile App Wallet,Completed,2026-08-23 05:18:52,14.76
+1140,1140,RFID Card,Failed,2026-09-06 21:29:52,40.32
+1141,1141,Credit Card,Completed,2026-07-17 00:42:52,16.11
+1142,1142,Apple Pay,Completed,2026-07-22 22:00:52,10.52
+1143,1143,Credit Card,Completed,2026-07-27 06:23:52,6.79
+1144,1144,RFID Card,Failed,2026-07-21 15:35:52,19.14
+1145,1145,Credit Card,Completed,2026-08-30 20:08:52,30.92
+1146,1146,Credit Card,Completed,2026-08-15 04:19:52,8.81
+1147,1147,Credit Card,Completed,2026-09-06 00:06:52,33.27
+1148,1148,Apple Pay,Completed,2026-06-26 05:25:52,16.92
+1149,1149,RFID Card,Failed,2026-07-17 17:45:52,33.54
+1150,1150,RFID Card,Completed,2026-08-10 22:07:52,5.84
+1151,1151,Mobile App Wallet,Failed,2026-06-25 08:54:52,29.57
+1152,1152,Credit Card,Completed,2026-09-04 13:07:52,15.78
+1153,1153,Credit Card,Failed,2026-08-24 10:43:52,12.09
+1154,1154,Mobile App Wallet,Completed,2026-08-17 03:49:52,16.55
+1155,1155,Mobile App Wallet,Failed,2026-07-27 21:10:52,15.54
+1156,1156,Apple Pay,Completed,2026-07-27 17:06:52,29.36
+1157,1157,Apple Pay,Completed,2026-07-11 07:45:52,40.63
+1158,1158,Mobile App Wallet,Failed,2026-07-17 23:11:52,2.9
+1159,1159,Apple Pay,Completed,2026-07-06 20:13:52,3.46
+1160,1160,Credit Card,Completed,2026-08-11 11:59:52,13.54
+1161,1161,Mobile App Wallet,Failed,2026-08-16 06:58:52,45.8
+1162,1162,Credit Card,Completed,2026-07-12 11:09:52,22.39
+1163,1163,RFID Card,Failed,2026-07-27 05:03:52,10.32
+1164,1164,Mobile App Wallet,Completed,2026-07-05 14:40:52,18.32
+1165,1165,Mobile App Wallet,Completed,2026-07-29 11:58:52,6.92
+1166,1166,RFID Card,Completed,2026-07-10 23:19:52,2.45
+1167,1167,RFID Card,Completed,2026-07-03 17:16:52,26.26
+1168,1168,Mobile App Wallet,Completed,2026-07-02 16:49:52,24.82
+1169,1169,Mobile App Wallet,Completed,2026-06-24 21:14:52,12.38
+1170,1170,RFID Card,Completed,2026-08-20 07:01:52,3.31
+1171,1171,RFID Card,Completed,2026-08-05 14:02:52,3.5
+1172,1172,Mobile App Wallet,Completed,2026-06-27 05:07:52,11.34
+1173,1173,Credit Card,Completed,2026-06-26 00:32:52,34.09
+1174,1174,RFID Card,Completed,2026-07-23 23:31:52,15.34
+1175,1175,Credit Card,Completed,2026-08-17 00:55:52,14.11
+1176,1176,Apple Pay,Completed,2026-07-29 20:54:52,16.85
+1177,1177,Credit Card,Failed,2026-07-17 19:15:52,38.83
+1178,1178,Apple Pay,Completed,2026-08-22 08:19:52,10.1
+1179,1179,RFID Card,Failed,2026-08-12 05:49:52,38.9
+1180,1180,Mobile App Wallet,Completed,2026-08-01 10:02:52,11.14
+1181,1181,Credit Card,Completed,2026-07-18 03:12:52,5.14
+1182,1182,Apple Pay,Failed,2026-09-03 17:24:52,11.31
+1183,1183,Credit Card,Completed,2026-06-14 23:47:52,4.7
+1184,1184,Credit Card,Completed,2026-07-22 03:39:52,26.04
+1185,1185,Mobile App Wallet,Completed,2026-07-09 23:12:52,5.97
+1186,1186,Credit Card,Failed,2026-08-30 18:36:52,8.64
+1187,1187,Mobile App Wallet,Completed,2026-07-24 02:31:52,4.25
+1188,1188,RFID Card,Completed,2026-07-02 06:44:52,17.74
+1189,1189,Credit Card,Failed,2026-08-21 11:39:52,3.8
+1190,1190,Credit Card,Completed,2026-07-01 21:46:52,15.58
+1191,1191,Credit Card,Completed,2026-07-30 09:19:52,42.25
+1192,1192,Credit Card,Failed,2026-08-03 14:39:52,29.08
+1193,1193,RFID Card,Failed,2026-07-21 00:59:52,39.17
+1194,1194,Credit Card,Completed,2026-07-15 10:57:52,6.88
+1195,1195,Credit Card,Failed,2026-07-17 05:55:52,8.64
+1196,1196,Apple Pay,Completed,2026-07-29 06:33:52,10.66
+1197,1197,Credit Card,Completed,2026-08-12 09:11:52,18.48
+1198,1198,Apple Pay,Completed,2026-07-08 05:01:52,2.93
+1199,1199,Credit Card,Completed,2026-08-13 22:06:52,33.96
+1200,1200,Apple Pay,Failed,2026-08-27 02:17:52,16.95

@@ -1,0 +1,13 @@
+model_id,make,model,battery_capacity_kwh,connector_type
+1,Tesla,Model 3,60,CCS/NACS
+2,Tesla,Model Y,75,CCS/NACS
+3,Hyundai,Ioniq 5,77,CCS
+4,Kia,EV6,77,CCS
+5,Ford,Mustang Mach-E,88,CCS
+6,Ford,F-150 Lightning,131,CCS
+7,Chevrolet,Bolt EV,65,CCS
+8,Nissan,Leaf,60,CHAdeMO
+9,BMW,i4,81,CCS
+10,Volkswagen,ID.4,82,CCS
+11,Rivian,R1T,135,CCS
+12,Porsche,Taycan,93,CCS

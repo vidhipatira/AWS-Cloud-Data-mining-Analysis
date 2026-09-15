@@ -1,0 +1,81 @@
+ticket_id,charger_id,issue_description,reported_date,resolved_date,status,downtime_hours
+1,84,Screen Unresponsive,2026-06-20,,In Progress,0.0
+2,60,Cable Wear and Tear,2026-09-05,,In Progress,0.0
+3,66,Overheating Warning,2026-07-20,,In Progress,0.0
+4,14,Payment Terminal Offline,2026-08-23,2026-08-24,Resolved,34.2
+5,17,Connector Lock Malfunction,2026-06-14,,In Progress,0.0
+6,67,Cable Wear and Tear,2026-07-11,,Open,0.0
+7,22,Screen Unresponsive,2026-09-08,,Open,0.0
+8,15,Connector Lock Malfunction,2026-09-04,,In Progress,0.0
+9,64,Screen Unresponsive,2026-07-21,,In Progress,0.0
+10,63,Screen Unresponsive,2026-06-20,2026-06-25,Resolved,36.5
+11,52,Connector Lock Malfunction,2026-08-13,2026-08-17,Resolved,15.7
+12,38,Cable Wear and Tear,2026-07-13,,In Progress,0.0
+13,67,Power Inverter Fault,2026-07-07,2026-07-10,Resolved,30.3
+14,73,Cable Wear and Tear,2026-08-21,,In Progress,0.0
+15,19,Power Inverter Fault,2026-06-16,,Open,0.0
+16,79,Cable Wear and Tear,2026-06-24,2026-06-26,Resolved,19.1
+17,61,Payment Terminal Offline,2026-06-17,2026-06-20,Resolved,11.7
+18,96,Cable Wear and Tear,2026-06-20,,In Progress,0.0
+19,22,Overheating Warning,2026-08-07,,Open,0.0
+20,2,Power Inverter Fault,2026-06-11,2026-06-15,Resolved,21.1
+21,61,Connector Lock Malfunction,2026-06-21,,Open,0.0
+22,40,Cable Wear and Tear,2026-09-05,,Open,0.0
+23,26,Cable Wear and Tear,2026-07-27,,Open,0.0
+24,69,Payment Terminal Offline,2026-06-15,,Open,0.0
+25,13,Connector Lock Malfunction,2026-07-26,,In Progress,0.0
+26,77,Screen Unresponsive,2026-08-28,2026-09-01,Resolved,5.1
+27,29,Power Inverter Fault,2026-07-16,2026-07-21,Resolved,30.9
+28,36,Power Inverter Fault,2026-07-20,,Open,0.0
+29,75,Cable Wear and Tear,2026-08-02,,In Progress,0.0
+30,48,Overheating Warning,2026-06-21,,In Progress,0.0
+31,33,Overheating Warning,2026-07-06,,In Progress,0.0
+32,10,Overheating Warning,2026-06-26,2026-06-28,Resolved,9.0
+33,36,Screen Unresponsive,2026-08-07,2026-08-09,Resolved,14.1
+34,17,Overheating Warning,2026-08-04,,Open,0.0
+35,43,Overheating Warning,2026-09-05,2026-09-09,Resolved,37.5
+36,36,Cable Wear and Tear,2026-08-27,2026-09-01,Resolved,42.1
+37,27,Screen Unresponsive,2026-07-05,2026-07-09,Resolved,2.1
+38,28,Connector Lock Malfunction,2026-06-18,,Open,0.0
+39,19,Screen Unresponsive,2026-07-13,2026-07-15,Resolved,23.9
+40,42,Connector Lock Malfunction,2026-06-27,,Open,0.0
+41,18,Overheating Warning,2026-06-28,,Open,0.0
+42,55,Cable Wear and Tear,2026-08-12,,In Progress,0.0
+43,42,Power Inverter Fault,2026-09-08,,In Progress,0.0
+44,31,Overheating Warning,2026-08-05,2026-08-06,Resolved,20.1
+45,91,Payment Terminal Offline,2026-08-18,,In Progress,0.0
+46,40,Overheating Warning,2026-09-03,,In Progress,0.0
+47,68,Connector Lock Malfunction,2026-06-21,,In Progress,0.0
+48,22,Cable Wear and Tear,2026-08-11,2026-08-13,Resolved,40.3
+49,56,Overheating Warning,2026-08-28,2026-08-30,Resolved,22.3
+50,88,Connector Lock Malfunction,2026-06-12,2026-06-15,Resolved,27.7
+51,84,Power Inverter Fault,2026-07-26,,In Progress,0.0
+52,4,Power Inverter Fault,2026-07-02,,Open,0.0
+53,99,Cable Wear and Tear,2026-08-20,,In Progress,0.0
+54,94,Payment Terminal Offline,2026-08-18,,In Progress,0.0
+55,79,Overheating Warning,2026-06-23,,Open,0.0
+56,49,Power Inverter Fault,2026-06-27,,Open,0.0
+57,96,Connector Lock Malfunction,2026-08-21,,Open,0.0
+58,57,Power Inverter Fault,2026-08-29,,Open,0.0
+59,1,Overheating Warning,2026-09-02,2026-09-04,Resolved,16.3
+60,48,Power Inverter Fault,2026-08-16,,Open,0.0
+61,78,Power Inverter Fault,2026-07-30,2026-07-31,Resolved,3.5
+62,83,Payment Terminal Offline,2026-07-04,,In Progress,0.0
+63,6,Cable Wear and Tear,2026-07-20,,In Progress,0.0
+64,36,Cable Wear and Tear,2026-06-11,2026-06-14,Resolved,4.6
+65,92,Payment Terminal Offline,2026-08-16,2026-08-17,Resolved,47.9
+66,63,Screen Unresponsive,2026-07-31,2026-08-04,Resolved,23.8
+67,14,Connector Lock Malfunction,2026-09-03,2026-09-08,Resolved,19.0
+68,91,Cable Wear and Tear,2026-07-07,2026-07-09,Resolved,10.1
+69,11,Payment Terminal Offline,2026-08-05,,Open,0.0
+70,8,Payment Terminal Offline,2026-08-27,,Open,0.0
+71,41,Connector Lock Malfunction,2026-08-20,2026-08-21,Resolved,41.5
+72,25,Cable Wear and Tear,2026-08-25,,In Progress,0.0
+73,43,Cable Wear and Tear,2026-08-31,2026-09-01,Resolved,41.0
+74,91,Screen Unresponsive,2026-06-29,,In Progress,0.0
+75,67,Connector Lock Malfunction,2026-07-28,2026-07-31,Resolved,45.3
+76,54,Cable Wear and Tear,2026-08-03,,In Progress,0.0
+77,9,Screen Unresponsive,2026-07-04,2026-07-05,Resolved,40.0
+78,94,Power Inverter Fault,2026-06-16,2026-06-18,Resolved,5.9
+79,6,Power Inverter Fault,2026-07-22,,In Progress,0.0
+80,89,Overheating Warning,2026-07-01,2026-07-03,Resolved,20.8

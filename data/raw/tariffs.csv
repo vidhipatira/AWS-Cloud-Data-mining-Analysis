@@ -1,0 +1,5 @@
+tariff_id,tariff_name,rate_per_kwh,session_fee
+1,Standard Off-Peak,0.22,1.0
+2,Peak Demand,0.48,2.5
+3,Highway Superfast,0.55,3.0
+4,Subscriber Discount,0.18,0.0
